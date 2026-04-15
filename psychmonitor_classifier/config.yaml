@@ -1,0 +1,45 @@
+# Конфигурация блока C PsychMonitor
+
+model:
+  name: "cointegrated/rubert-tiny2"   # компактная RuBERT (29M параметров)
+  max_length: 128
+  num_labels: 6
+
+classes:
+  1: "work"          # Работа / дедлайны
+  2: "family"        # Семья / отношения
+  3: "health"        # Здоровье / самочувствие
+  4: "friends"       # Друзья / общение
+  5: "finance"       # Финансы
+  6: "unknown"       # Не распознано
+
+training:
+  batch_size: 32              # rubert-tiny2 влезает в 4 ГБ VRAM с запасом
+  eval_batch_size: 64
+  learning_rate: 5.0e-5       # для tiny2 можно чуть выше, чем для base
+  weight_decay: 0.01
+  num_epochs: 10
+  warmup_ratio: 0.1
+  early_stopping_patience: 2
+  seed: 42
+  use_class_weights: true     # балансировка для редкого класса "friends"
+  fp16: true                  # half precision → быстрее на GPU
+
+inference:
+  confidence_threshold: 0.4   # τ_conf из §2.2.3
+
+data:
+  raw_path: "data/raw/SAD_v1.csv"
+  mapped_path: "data/processed/sad_mapped.csv"
+  translated_path: "data/processed/sad_ru.csv"
+  train_path: "data/processed/train.csv"
+  val_path: "data/processed/val.csv"
+  test_path: "data/processed/test.csv"
+  split:
+    train: 0.8
+    val: 0.1
+    test: 0.1
+
+paths:
+  model_dir: "models/rubert_trigger_classifier"
+  reports_dir: "reports"

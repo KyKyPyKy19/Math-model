@@ -1,0 +1,42 @@
+# === Обученные модели (слишком большие для GitHub, >100 МБ) ===
+psychmonitor_classifier/models/
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# === Виртуальные окружения ===
+.venv/
+venv/
+env/
+ENV/
+
+# === IDE ===
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# === ОС ===
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# === Логи и временные файлы ===
+*.log
+logs/
+tmp/
+temp/
+wandb/
+runs/
+
+# === Jupyter ===
+.ipynb_checkpoints/
+
+# === Ноутбуки с выводом (опционально) ===
+# *.ipynb

@@ -1,0 +1,649 @@
+sID,sentence,sentence_ru,top_label,label,label_id,class_name
+3109,Working from home is impossible with kids,Работать дома с детьми невозможно,Work,1,0,work
+5735,i always ended up becoming very attatched to things and experienced terrible anxiety about getting rid of anything.,в конечном итоге я всегда очень привязывался к вещам и испытывал ужасное беспокойство по поводу избавления от чего-либо.,Emotional Turmoil,6,5,unknown
+6791,My mom pisses me off.,Моя мама бесит меня.,Family Issues,2,1,family
+4054,I'm getting tired of interviewing and not getting a final answer.,Я устал ходить на собеседования и не получать окончательного ответа.,Work,1,0,work
+445,hi friend i feel very stressed out about the amount of work that i have to do at work,"привет друг, я очень переживаю из-за объема работы, которую мне приходится делать на работе",Work,1,0,work
+105,being self employed for the new year is really stressing me out.,Работа на себя в новом году меня очень напрягает.,Work,1,0,work
+5307,I'm getting tired of seeing my friends hurting because of other people.,"Я устал видеть, как мои друзья страдают из-за других людей.",Social Relationships,4,3,friends
+609,I am stressed about new job which I recently started 2 months ago.,"Меня беспокоит новая работа, которую я начал недавно, 2 месяца назад.",Work,1,0,work
+453,"hi friend, school has been stressing me out. i feel like i'm drowning in the homework.","привет друг, школа меня напрягает. у меня такое чувство, будто я тону в домашней работе.",School,1,0,work
+4957,I need to finish my research paper.,Мне нужно закончить исследовательскую работу.,School,1,0,work
+1908,my health seems to have taken a turn for the worse,"мое здоровье, кажется, ухудшилось","Health, Fatigue, or Physical Pain",3,2,health
+778,i got a new boss that doesn't perform his job properly,"у меня новый начальник, который не выполняет свою работу должным образом",Work,1,0,work
+760,i feel like i don't have enough time to myself.,"я чувствую, что мне не хватает времени на себя.",Other,6,5,unknown
+4261,"Ok, for those of you that don't know, I've been having trouble with a part of my job...","Хорошо, для тех из вас, кто не знает, у меня были проблемы с частью моей работы...",Work,1,0,work
+2145,needing to move from my current living situation.,мне нужно переехать из моей нынешней жизненной ситуации.,Other,6,5,unknown
+5713,To bad it's nasty..but oh well. Zach's new baby kitten died.,"Жаль, противно.. ну да ладно. Новорожденный котенок Зака ​​умер.",Other,6,5,unknown
+6590,I feel that he can't tell me things about his girlfriend.,"Я чувствую, что он не может мне ничего рассказать о своей девушке.",Social Relationships,4,3,friends
+483,hmmm. let me think about that. this conflict with iran worries me.,хм. позвольте мне подумать об этом. меня беспокоит этот конфликт с Ираном.,Emotional Turmoil,6,5,unknown
+1338,i'm studying for a high stakes exam,я готовлюсь к экзамену по высоким ставкам,School,1,0,work
+1852,my dog is missing.,моя собака пропала.,Family Issues,2,1,family
+903,i have been stessing out about getting my strength back in my legs after finding out i h,"я долго думал о том, как вернуть силы в ноги после того, как узнал, что я","Health, Fatigue, or Physical Pain",3,2,health
+1485,i've been stressed out about work recently,в последнее время я был в стрессе из-за работы,Work,1,0,work
+3697,"We are short staffed at work, and the long hours are draining.","У нас на работе не хватает персонала, и долгие часы утомляют.",Work,1,0,work
+4434,"There is so much to do at work, I don't have enough time it seems.","На работе столько дел, кажется, времени не хватает.",Work,1,0,work
+5407,"I want to leave, I do not want to live with my parents, well mostly its my dad.","Я хочу уехать, не хочу жить с родителями, ну в основном с отцом.",Family Issues,2,1,family
+330,getting an internship this summer..,этим летом стажируюсь..,School,1,0,work
+5481,"Charles Whitman told his doctor that he was feeling ""low"" after his parents' divorce and hadn't been feeling well.","Чарльз Уитмен рассказал своему врачу, что после развода родителей он чувствовал себя «подавленно» и чувствовал себя плохо.",Emotional Turmoil,6,5,unknown
+2814,todd and i are both miserable and i know know how to fix our relationship.,"Мы с Тоддом оба несчастны, и я знаю, как исправить наши отношения.",Social Relationships,4,3,friends
+420,hey thanks for asking how im doing. for the most part kids and worrying their health,"эй, спасибо, что спросил, как у меня дела. по большей части дети и переживают за их здоровье",Family Issues,2,1,family
+1226,I'm currently worried about the corona virus and my job security.,В настоящее время я беспокоюсь о вирусе короны и безопасности своей работы.,Work,1,0,work
+5464,I think she just had a bad day because she told me her family was grating on her nerves.,"Я думаю, у нее просто был плохой день, потому что она сказала мне, что семья действует ей на нервы.",Family Issues,2,1,family
+142,can't do the same things at work i used to be able to do,"не могу делать на работе то же, что мог делать раньше",Work,1,0,work
+2494,The cats and their behavioral issues have been stressful.,Кошки и их поведенческие проблемы вызвали стресс.,Other,6,5,unknown
+6390,It's like everyday I have to struggle just to get by and I don't even know why I bother.,"Это похоже на то, что мне каждый день приходится бороться, чтобы выжить, и я даже не знаю, почему я беспокоюсь.",Everyday Decision Making,6,5,unknown
+3374,I told him about the therapist visits and that I was still totally stressed about work.,"Я рассказал ему о визитах к терапевту и о том, что все еще очень переживаю из-за работы.",Work,1,0,work
+1452,i've been looking for a new job and can't find one.,я искал новую работу и не могу ее найти.,Work,1,0,work
+4387,Yet another day I felt like having a breakdown at various points in the day...and I hate it.,"Еще один день, когда я чувствовал, что в разные моменты дня у меня срывался нервный срыв… и я ненавижу это.",Emotional Turmoil,6,5,unknown
+1971,my job. it has 0 application for the shit i do for it,"моя работа. у него 0 применений за то дерьмо, которое я для него делаю",Work,1,0,work
+5354,I broke up with my girlfriend when I came here.,"Я расстался со своей девушкой, когда приехал сюда.",Social Relationships,4,3,friends
+5368,"i haven't felt very useful lately, and i've often felt bothersome to my friends.",В последнее время я не чувствовал себя особенно полезным и часто чувствовал себя надоедливым по отношению к своим друзьям.,Social Relationships,4,3,friends
+728,"i do not like my job, my boss is lazy and i get blamed for everything.","Мне не нравится моя работа, мой начальник ленив, и меня во всем обвиняют.",Work,1,0,work
+847,"i have a test coming up, but i'm nervous about taking it.","У меня скоро тест, но я нервничаю перед его сдачей.",School,1,0,work
+1097,i mean i'm going to get half my teeth ripped out on tuesday.,"я имею в виду, что во вторник мне вырвут половину зубов.","Health, Fatigue, or Physical Pain",3,2,health
+2845,trying to find a job,пытаюсь найти работу,Financial Problem,5,4,finance
+2683,the teacher didn' want to receive my homework because i was 3 minutes late to his class,"учитель не хотел получать мое домашнее задание, потому что я опоздал на 3 минуты к нему в класс",School,1,0,work
+6573,"I don't get to go, I dont get to see Steven.","Я не смогу пойти, не смогу увидеть Стивена.",Social Relationships,4,3,friends
+1349,i'm trying to find a job that i can work around my son's schedule.,"Я пытаюсь найти работу, которая могла бы соответствовать графику моего сына.",Work,1,0,work
+1976,my kids are driving me crazy.,мои дети сводят меня с ума.,Family Issues,2,1,family
+4526,"Everyday is a struggle between what I want to say, and what I should keep to myself.","Каждый день — это борьба между тем, что я хочу сказать, и тем, что мне следует оставить при себе.",Social Relationships,4,3,friends
+4732,i don't know how i am gonna do dinner tonight.,"я не знаю, как я буду ужинать сегодня вечером.",Everyday Decision Making,6,5,unknown
+4372,"Which I've apparently very nearly missed due to my screwed up mids schedule, is this week.","Который я, видимо, чуть не пропустил из-за своего неудачного графика в середине турнира, это эта неделя.",Other,6,5,unknown
+5726,"I'm sick of me being so difficult, I can't choose anything or anyone becasue I'm scared, i'm scared of being happy again.","Мне надоело быть таким трудным, я не могу выбрать ничего и никого, потому что боюсь, боюсь снова стать счастливой.",Emotional Turmoil,6,5,unknown
+1817,my company may be acquired by another company,моя компания может быть приобретена другой компанией,Work,1,0,work
+2626,the management at work is causing a lot of stress on me.,руководство на работе вызывает у меня большой стресс.,Work,1,0,work
+849,i have all this work and no time to do anything idk what to do,"у меня вся эта работа и нет времени что-либо делать, я не знаю, что делать",Work,1,0,work
+2496,the constant schedule change at my job.,постоянное изменение графика на моей работе.,Work,1,0,work
+2926,well the stress of choosing what to eat. i wake up int the morning and find it difficult,"ну, стресс от выбора, что поесть. я просыпаюсь утром и мне трудно",Everyday Decision Making,6,5,unknown
+458,hi friend. my relationship has been stressing me out. we are lacking communication.,"привет, друг. мои отношения меня напрягали. нам не хватает общения.",Social Relationships,4,3,friends
+1748,my boss is always on my case,мой босс всегда занимается моим делом,Work,1,0,work
+866,i have been feeling rushed at work and having trouble with my training.,Я чувствовал спешку на работе и у меня были проблемы с обучением.,Work,1,0,work
+936,I have been stressing about COVID-19,Я переживал по поводу COVID-19,Emotional Turmoil,6,5,unknown
+6627,so of course my mom gets all depressed and stuff and she takes it out on me.,"так что, конечно, моя мама впадает в депрессию и все такое, и она вымещает это на мне.",Family Issues,2,1,family
+3495,MY CONTRACTIONS BIG TIME BUT I'VE BEEN STRESSING ABOUT THE DECISION,"МОИ СРАЖЕНИЯ БОЛЬШИЕ ВРЕМЯ, НО Я ТРУДИЛСЯ О РЕШЕНИИ",Everyday Decision Making,6,5,unknown
+547,i am having money problems,у меня проблемы с деньгами,Financial Problem,5,4,finance
+3644,I am often physically and emotionally exhausted. Stands to reason that lack of sleep might be a proximate cause.,"Я часто физически и эмоционально истощен. Разумеется, непосредственной причиной может быть недостаток сна.","Health, Fatigue, or Physical Pain",3,2,health
+1478,i've been stressed about not being able to find a job.,"я был в стрессе из-за того, что не смог найти работу.",Financial Problem,5,4,finance
+2911,We havent left the house in 2 weeks,Мы не выходили из дома две недели,Other,6,5,unknown
+1159,i want to move out of the state,я хочу переехать из штата,Other,6,5,unknown
+1940,my income or lack thereof until my job starts.,мой доход или его отсутствие до начала моей работы.,Financial Problem,5,4,finance
+3394,so my ankle still hurts.,так что моя лодыжка все еще болит.,"Health, Fatigue, or Physical Pain",3,2,health
+220,dealing with my coworkers everyday with their annoying habits,каждый день сталкиваюсь с моими коллегами и их раздражающими привычками,Work,1,0,work
+2326,productivity,производительность,Everyday Decision Making,6,5,unknown
+3208,"In pain, muscles refusing to work.",От боли мышцы отказываются работать.,"Health, Fatigue, or Physical Pain",3,2,health
+6125,being so tight on money also made their realtionship hard.,"из-за того, что им не хватало денег, их взаимоотношения усложнялись.",Financial Problem,5,4,finance
+1389,issues we have at work about data,"проблемы, с которыми мы сталкиваемся на работе, связанные с данными",Work,1,0,work
+2125,my whole family has been battling the flu and strep.,вся моя семья боролась с гриппом и стрептококком.,"Health, Fatigue, or Physical Pain",3,2,health
+5748,"I was lonely, and depressed.",Я был одинок и подавлен.,Emotional Turmoil,6,5,unknown
+6660,"oh man, my mom and my brother are screaming at eachother and its driving me insane.","о боже, моя мама и мой брат кричат ​​друг на друга, и это сводит меня с ума.",Family Issues,2,1,family
+5938,I'm feeling especially lonely right now.,Сейчас я чувствую себя особенно одиноким.,Emotional Turmoil,6,5,unknown
+6009,I've been doing TERRIBLE at managing my money lately.,В последнее время я УЖАСНО управляю своими деньгами.,Financial Problem,5,4,finance
+6110,I'm tired of working so hard and not having enough money to do anything.,"Я устал так много работать и не иметь достаточно денег, чтобы что-либо сделать.",Financial Problem,5,4,finance
+6316,"my mom's suffering does add to my family's current levels of stress, it still doesn't give me free rein to go all Sylvia Plath.","Страдания моей мамы усиливают нынешний уровень стресса в моей семье, но они все равно не дают мне свободы действий, чтобы стать Сильвией Плат.",Family Issues,2,1,family
+1548,"job searching, and i mean, the future in general","поиск работы, и я имею в виду будущее в целом",Work,1,0,work
+2793,This whole Corona Virus and self quarentine at home situation plaus no work is stressful,"Весь этот Коронавирус и домашний карантин, а также отсутствие работы вызывают стресс.",Emotional Turmoil,6,5,unknown
+3964,I have been majorly stressed about shit lately.,В последнее время меня сильно беспокоит дерьмо.,Emotional Turmoil,6,5,unknown
+1988,my lease is ending soon,моя аренда скоро заканчивается,Everyday Decision Making,6,5,unknown
+3862,Any clarity I had found is piled under stress and unwanted responsibilities at the moment.,"Любая ясность, которую я нашел, в данный момент связана со стрессом и нежелательными обязанностями.",Other,6,5,unknown
+5391,"honey i'm scared about the talk too, that we are going to have this saturday.","дорогая, я тоже боюсь разговора о том, что у нас будет эта суббота.",Family Issues,2,1,family
+6383,"I've been much too distracted by work lately, using up too much energy being annoyed and worried.","В последнее время я слишком отвлекаюсь на работу, трачу слишком много сил на раздражение и беспокойство.",Work,1,0,work
+69,"Balancing school and work online, and maintaining a healty diet",Совмещение учебы и работы онлайн и поддержание здорового питания,Work,1,0,work
+2466,"taking care of three kids, has been very stressful.",забота о троих детях была для меня очень напряженным занятием.,Family Issues,2,1,family
+2990,work and the wedding,работа и свадьба,Work,1,0,work
+6365,Kids dont' get to know their parents and parents dont get to know their kids.,"Дети не узнают своих родителей, а родители не узнают своих детей.",Family Issues,2,1,family
+6325,"I can't help my mom get over her past, nor my father his, and it feels like my sister's hanging off a ledge and I can't pull her back up.","Я не могу помочь маме пережить ее прошлое, а отец — своему, и у меня такое ощущение, будто моя сестра висит на уступе, и я не могу ее вытащить обратно.",Family Issues,2,1,family
+2169,Not being able to make money right now.,Невозможность зарабатывать деньги прямо сейчас.,Financial Problem,5,4,finance
+6645,"I feel like i'm losing touch with so many of my friends, and that how I was before is so fake now.","Я чувствую, что теряю связь со многими своими друзьями, и то, каким я был раньше, сейчас кажется фальшивым.",Social Relationships,4,3,friends
+6093,damn my lack of money.,"блин, у меня нет денег.",Financial Problem,5,4,finance
+1384,i'm worried that i've gotten myself into a very awkward situation,"я волнуюсь, что попал в очень неловкую ситуацию",Other,6,5,unknown
+1671,"marriage challenges, rebuilding trust and forgiving my spouse","проблемы в браке, восстановление доверия и прощение моего супруга",Family Issues,2,1,family
+6505,i have my economics final on monday and i haven't studied!,"В понедельник у меня выпускной экзамен по экономике, а я еще не учился!",School,1,0,work
+3977,I have to be a student again and I don't like it.,"Мне придется снова стать студентом, и мне это не нравится.",School,1,0,work
+4033,"i'm becoming nervous simply thinking about the ordeal. that ""day"" which has","я начинаю нервничать, просто думая об этом испытании. тот «день», который",Other,6,5,unknown
+4897,I have a lot of homework due for next week.,У меня много домашнего задания на следующую неделю.,School,1,0,work
+4059,"I'm inevitably put into the position of not having money at school, and needing it.","Я неизбежно оказываюсь в положении, когда у меня нет денег в школе, и я нуждаюсь в них.",Financial Problem,5,4,finance
+3200,"My back aches, my chest, my legs, my arms.","У меня болит спина, грудь, ноги, руки.","Health, Fatigue, or Physical Pain",3,2,health
+6849,"I just haven't had time to, what with babysitting and Mom eBaying and life in general.","У меня просто на это не было времени, учитывая присмотр за детьми, мамины покупки на eBay и жизнь в целом.",Everyday Decision Making,6,5,unknown
+2797,"This whole Coronavirus pandemic is stressing me out, I lost my job.","Вся эта пандемия коронавируса меня напрягает, я потерял работу.",Work,1,0,work
+2375,"school has been so hard, i cant keep up","в школе было так тяжело, я не успеваю",School,1,0,work
+5246,"So, just put the pieces together that the ex has a new girlfriend.","Итак, просто сложите воедино, что у бывшего появилась новая девушка.",Social Relationships,4,3,friends
+5171,"so.. yeah. school, aint nothin to talk about there. bus rides, both sucked.","так что... да. школа, там не о чем говорить. ездит на автобусе, оба отстой.",School,1,0,work
+2794,This whole Corona Virus situation!,Вся эта ситуация с короновирусом!,Emotional Turmoil,6,5,unknown
+5036,im all stressed out bout my grades and stuff!!!!,я весь в стрессе из-за своих оценок и прочего!!!!,School,1,0,work
+98,being micromanaged at my workplace.,микроменеджмент на моем рабочем месте.,Work,1,0,work
+4509,"Having trouble focusing today, its probably a bit of a problem, work is difficult to focus on with the lack of focus.","Сегодня у меня проблемы с концентрацией внимания, возможно, это небольшая проблема: из-за отсутствия концентрации трудно сосредоточиться на работе.",Work,1,0,work
+1373,I'm worried about my parents catching this virus.,"Я беспокоюсь, что мои родители заразятся этим вирусом.",Family Issues,2,1,family
+367,grad school applications are killing me right now.,Заявки в аспирантуру меня сейчас убивают.,School,1,0,work
+6185,His dad hurt him very badly.,Отец его очень сильно обидел.,Family Issues,2,1,family
+2177,not being able to take a long vacation.,не имея возможности взять длительный отпуск.,Other,6,5,unknown
+1524,i've been worried about signing up for a new plan for my job,я беспокоился о подписке на новый план для моей работы,Work,1,0,work
+4599,"given that i need to go home to fix my car get clothes and what not, i dont like being called last minute to be used as the driver.","учитывая, что мне нужно пойти домой, чтобы починить машину, взять одежду и что-то еще, мне не нравится, когда меня вызывают в последнюю минуту и ​​используют в качестве водителя.",Everyday Decision Making,6,5,unknown
+2493,the amount of work my supervisor assigned me,"объем работы, который поручил мне мой руководитель",Work,1,0,work
+3195,"i'm hungry, but when i try to eat, i start feeling all sick.","я голоден, но когда пытаюсь поесть, меня начинает тошнить.","Health, Fatigue, or Physical Pain",3,2,health
+1073,i just moved to arizona from california. i don't know what to do job wise.,"я только что переехал в Аризону из Калифорнии. я не знаю, что делать с работой.",Work,1,0,work
+2001,my mom is driving my crazy,моя мама сводит меня с ума,Family Issues,2,1,family
+5930,I'm falling apart physically and emotionally.,Я разваливаюсь физически и эмоционально.,Emotional Turmoil,6,5,unknown
+2517,The coronavirus affecting the whole country.,Коронавирус затронул всю страну.,Other,6,5,unknown
+5957,"I have to pay for the key to be made, and I need to get money for other activities this week.","Мне нужно заплатить за изготовление ключа, и мне нужно получить деньги на другие дела на этой неделе.",Financial Problem,5,4,finance
+1272,i'm most stressed about my grandpa who is sick in the hospital.,"Больше всего меня беспокоит мой дедушка, который болен в больнице.",Family Issues,2,1,family
+5686,"With the holidays coming up, this is a very hard time for some of us, and i think a little sensitivity is in order here.","С приближением праздников для некоторых из нас это очень тяжелое время, и я думаю, что здесь уместна некоторая деликатность.",Everyday Decision Making,6,5,unknown
+6495,School is quite literally making me sick.,Меня буквально тошнит от школы.,School,1,0,work
+2547,The coronavirus.  I had to move DJ into my house to help me deal.,"Коронавирус.  Мне пришлось переселить диджея в свой дом, чтобы он помог мне разобраться.","Health, Fatigue, or Physical Pain",3,2,health
+5015,they're so tiring. its so hard getting back into the whole school routine.,они так утомительны. так сложно вернуться к школьной рутине.,School,1,0,work
+5932,I just have a lot of stresses in my life right now.,Просто у меня сейчас много стрессов в жизни.,Other,6,5,unknown
+3092,work! i have too much too do at work! help!,работа! у меня слишком много дел на работе! помощь!,Work,1,0,work
+5351,"I'm stressed beyond belief, which of course cause stress with my friends, not to mention other relationships.","Я в невероятном стрессе, что, конечно, вызывает стресс у моих друзей, не говоря уже о других отношениях.",Social Relationships,4,3,friends
+5005,So thats my week i have so much crap to do for school which sucks!!,"Итак, это моя неделя, мне нужно сделать столько дерьма для школы, и это отстой!!",School,1,0,work
+6400,I am doin some laundry I have a very busy day tomorrow and I have a feeling I am not gonna want to get out of bed.,"Я стираю вещи. Завтра у меня очень напряженный день, и у меня такое чувство, что мне не захочется вставать с постели.",Everyday Decision Making,6,5,unknown
+4422,Three tests next week and I am stressing out like crazy.,"Три теста на следующей неделе, и я напрягаюсь как сумасшедший.",School,1,0,work
+1762,my boss was a dick,мой босс был придурком,Other,6,5,unknown
+6332,"my mom has been kind of worried about me lately, and i've kinda felt the need to talk with her about everything thats been goin on with me.","моя мама в последнее время беспокоилась за меня, и я почувствовал необходимость поговорить с ней обо всем, что со мной происходит.",Family Issues,2,1,family
+1342,i'm thinking about how to save up money for the birth of my child.,"Я думаю о том, как накопить деньги на рождение ребенка.",Financial Problem,5,4,finance
+2458,such a sucky day. i'm glad it is over,"такой отстойный день. я рад, что все закончилось",Everyday Decision Making,6,5,unknown
+4948,school was extra stressful today.,Сегодня в школе было очень напряженно.,School,1,0,work
+3298,maybe it was because i am still in lots of pain and couldn't get comfortable.,"возможно, это произошло потому, что мне все еще очень больно, и я не могу успокоиться.","Health, Fatigue, or Physical Pain",3,2,health
+1402,it stresses me out that i am the only person who works around here ever,"меня напрягает то, что я единственный человек, который когда-либо здесь работал",Work,1,0,work
+6567,iv been scaring myself lately with the way i feel..the way i think about myself.,В последнее время я пугаю себя своими чувствами... своими мыслями о себе.,Emotional Turmoil,6,5,unknown
+5578,sorry bout all that but i really needed to vent some stuff.,"извини за все это, но мне действительно нужно было кое-что высказать.",Emotional Turmoil,6,5,unknown
+6193,ahh i am getting so sick of dealing with my mom each day.,"ах, мне так надоело иметь дело с мамой каждый день.",Family Issues,2,1,family
+4851,omg i need to go back to school!,"омг, мне нужно вернуться в школу!",School,1,0,work
+1341,Im sure you know already! The virus like everyone else!,"Я уверен, что ты уже знаешь! Вирус как и все!",Financial Problem,5,4,finance
+5680,"i have a problem, and i need help.","у меня проблема, и мне нужна помощь.",Other,6,5,unknown
+1331,Im stressed out by this coronavirus.,У меня стресс из-за этого коронавируса.,"Health, Fatigue, or Physical Pain",3,2,health
+3564,Wanted to ride 4x a week but I'm injured so I can't ride for a while.,"Хотел кататься 4 раза в неделю, но у меня травма, поэтому я не могу какое-то время кататься.","Health, Fatigue, or Physical Pain",3,2,health
+2807,this whole virus thing,вся эта вирусная штука,"Health, Fatigue, or Physical Pain",3,2,health
+4896,i need to catch up in school.,мне нужно наверстать упущенное в школе.,School,1,0,work
+4276,randy said that i'm miserable and i need to get a job.,"Рэнди сказал, что я несчастен и мне нужно найти работу.",Work,1,0,work
+3648,"So the opening supervisor at work has, for the last two weeks, been sick or some shit that prevents her from working.","Итак, руководитель открытия на работе последние две недели болел или что-то еще, что мешало ей работать.",Work,1,0,work
+2465,"taking care of my kids after work, im always so tired","забочусь о своих детях после работы, я всегда так устаю",Family Issues,2,1,family
+4522,Work was hectic and crazy for the whole day.,Весь день работа была суматошной и сумасшедшей.,Work,1,0,work
+5127,"I am full of anxiety, stress, and paranoia as I remind myself that I have school.","Я полон беспокойства, стресса и паранойи, когда напоминаю себе, что мне пора в школу.",School,1,0,work
+1106,i need a tooth pulled and i continue to put it off,мне нужно вырвать зуб и я продолжаю его откладывать,"Health, Fatigue, or Physical Pain",3,2,health
+3642,"My throat is sore too, and that makes it increasingly difficult to sleep.","У меня тоже болит горло, и из-за этого мне становится все труднее спать.","Health, Fatigue, or Physical Pain",3,2,health
+2656,The recent COVID-19 situation is stressing me out.,Недавняя ситуация с COVID-19 вызывает у меня стресс.,"Health, Fatigue, or Physical Pain",3,2,health
+729,i don't even know where to begin,"я даже не знаю, с чего начать",Other,6,5,unknown
+6289,My beloved friends and boyfriend are out there worried about my health now.,Мои любимые друзья и парень сейчас беспокоятся о моем здоровье.,Social Relationships,4,3,friends
+3898,"Finally, I am irritated that I couldn't remember everything I wanted to post....","Наконец, меня раздражает то, что я не смог вспомнить все, что хотел опубликовать....",Other,6,5,unknown
+6480,"He hasnt worked for a week because his schedule was screwed up, so he has had extra time to study.","Он не работал неделю, потому что его график был испорчен, поэтому у него было дополнительное время для учебы.",Work,1,0,work
+3088,work sucks.. i work long hours for little pay,работа отстой.. я работаю много часов за маленькую зарплату,Work,1,0,work
+5272,"Sandra can't stand Michael, and they don't talk or anything, and she says she feels bad for creating a bad atmosphere.","Сандра терпеть не может Майкла, они не разговаривают или что-то в этом роде, и она говорит, что ей жаль из-за того, что она создала плохую атмосферу.",Social Relationships,4,3,friends
+639,I am stressing out I an't pay my bills this month.,"Я подчеркиваю, что не плачу по счетам в этом месяце.",Financial Problem,5,4,finance
+1677,Me not being able to make ends meet.,Я не могу свести концы с концами.,Work,1,0,work
+841,i have a problem with a co-worker.,у меня проблема с коллегой.,Work,1,0,work
+5500,My girlfriend hasn't returned my phone calls for the past two days.,Моя девушка не отвечала на мои телефонные звонки последние два дня.,Social Relationships,4,3,friends
+2697,"The virus has been on my mind quite a bit, but not too stressful!","Я довольно долго думал о вирусе, но не слишком сильно!",Other,6,5,unknown
+3859,"truthfully, it's hard to get into that mindset again, especially since I am so upset at the net.","честно говоря, трудно снова прийти к такому мышлению, тем более, что я так расстроен сетью.",Emotional Turmoil,6,5,unknown
+3583,"During the past few weeks his condition has worsened immensely, and he has spent several weeks in the hospital.","За последние несколько недель его состояние значительно ухудшилось, и он провел несколько недель в больнице.","Health, Fatigue, or Physical Pain",3,2,health
+751,i dont want to leave my baby to go to work but i need to work,"я не хочу оставлять ребенка на работу, но мне нужно работать",Work,1,0,work
+6291,"Fuck, not seeing their dad is bad for em.","Черт, для них плохо не видеться с отцом.",Family Issues,2,1,family
+5390,My roommates and I aren't exactly friendly with our neighbors.,Мои соседи по комнате и я не совсем дружелюбны с нашими соседями.,Social Relationships,4,3,friends
+4729,I was extremely busy and I can't have lunch with my colleagues.,Я был очень занят и не мог пообедать с коллегами.,Work,1,0,work
+1284,I'm not working as much. I wasn't feeling good.,Я не так много работаю. Я чувствовал себя нехорошо.,Work,1,0,work
+4240,My parents are being all wierd lately.,Мои родители в последнее время такие странные.,Family Issues,2,1,family
+2660,the recent things that have been stressing about is moving.,"недавние вещи, из-за которых мы переживали, двигаются.",Everyday Decision Making,6,5,unknown
+6612,"When she is my friend, I'm not happy.","Когда она мой друг, я не счастлив.",Social Relationships,4,3,friends
+6531,"big test today, dont feel good about it, couldn't study last night because didn't feel very well.","сегодня большой тест, не очень доволен, вчера вечером не смог заниматься, потому что чувствовал себя не очень хорошо.",School,1,0,work
+1453,i've been looking for house plans to start building a house and it's very stressful.,"Я искал планы домов, чтобы начать строить дом, и это очень стрессово.",Everyday Decision Making,6,5,unknown
+1617,lately i haven't felt like grocery shopping and instead ordering food; its expensive.,в последнее время мне не хочется ходить за продуктами и вместо этого заказывать еду; это дорого.,Everyday Decision Making,6,5,unknown
+4278,scheduling is stressing me out more than normal this semester.,"В этом семестре расписание вызывает у меня больше стресса, чем обычно.",School,1,0,work
+5658,"He's feeling depressed I guess, but its kind of scaring me.","Думаю, он в депрессии, но меня это немного пугает.",Social Relationships,4,3,friends
+89,being evicted,выселение,Financial Problem,5,4,finance
+5742,"he said he was all worried, and needed to see me asap.","он сказал, что очень волнуется и ему нужно как можно скорее увидеть меня.",Social Relationships,4,3,friends
+555,i am having trouble making ends meet and have to find a second job.,"Мне трудно сводить концы с концами, и мне нужно найти вторую работу.",Work,1,0,work
+2491,the amount of work i have to do in nursing school and hospital clinicals,"объем работы, которую мне приходится выполнять в школе медсестер и клиниках больниц",Work,1,0,work
+425,Hey!  This coronavirus is stressing me out!  When will it end?,Привет!  Этот коронавирус меня напрягает!  Когда это закончится?,"Health, Fatigue, or Physical Pain",3,2,health
+362,going to my kid's school for a meeting,иду в школу моего ребенка на встречу,School,1,0,work
+1959,my job is stressing me out,моя работа меня напрягает,Work,1,0,work
+2737,these people do not care about their workers. they do not want to pay us.,эти люди не заботятся о своих работниках. они не хотят нам платить.,Work,1,0,work
+1658,lot of problems at work,много проблем на работе,Work,1,0,work
+3240,Top tha toff with being in severe pain.,"Вдобавок ко всему, вы испытываете сильную боль.","Health, Fatigue, or Physical Pain",3,2,health
+792,I had a miscommunication with my boss.,У меня было недоразумение с начальником.,Work,1,0,work
+80,Been stressed at work.,Был стресс на работе.,Work,1,0,work
+4955,"God, I am so nervous I'm going to make the wrong decision with where to go to school.","Боже, я так нервничаю, что приму неправильное решение, куда пойти в школу.",School,1,0,work
+3467,"He was constantly in pain, not even the high dose of medicine the hospital would give him would even do anything.","Ему постоянно было больно, даже большие дозы лекарств, которые ему давали в больнице, ничего не помогали.","Health, Fatigue, or Physical Pain",3,2,health
+5834,"You are very prone to become depressed and moody, as emotions can turn inward and cause anxiety and mental turmoil.","Вы очень склонны впадать в депрессию и капризность, поскольку эмоции могут повернуться внутрь и вызвать беспокойство и душевное смятение.",Other,6,5,unknown
+2994,Work has been a handful lately,Работы в последнее время мало,Work,1,0,work
+389,Having no job due to pandemic,Без работы из-за пандемии,Work,1,0,work
+1735,"my body looks so bad currently, my birth control won't let me lose weight! i hate it!","мое тело сейчас выглядит так плохо, что мои противозачаточные средства не позволят мне похудеть! Я ненавижу это!","Health, Fatigue, or Physical Pain",3,2,health
+2441,still stressed about the same thing as before,"все еще испытываю стресс из-за того же, что и раньше",Other,6,5,unknown
+1386,"in one word: everything. honestly, i keep losing. i put everything i have into my work.","одним словом: все. честно говоря, я продолжаю проигрывать. я вкладываю все, что у меня есть, в свою работу.",Work,1,0,work
+4855,"School was tiring, and I had a TON of homework.","Школа была утомительной, и у меня было ТОННУ домашних заданий.",School,1,0,work
+2580,The current health situation.,Текущая ситуация со здоровьем.,"Health, Fatigue, or Physical Pain",3,2,health
+2863,trying to make everyone happy at work.,стараюсь сделать всех счастливыми на работе.,Work,1,0,work
+2718,There have a lots of bad new on the television,По телевизору много плохих новостей,Other,6,5,unknown
+2766,"This coronavirus. I mean, how long will it last? What do I do?","Этот коронавирус. Я имею в виду, как долго это продлится? Что мне делать?",Emotional Turmoil,6,5,unknown
+3930,"i can't tell wither there real or not. i've recently become impatient,","я не могу сказать, настоящий он там или нет. в последнее время я стал нетерпеливым,",Other,6,5,unknown
+5979,"After all, their employer refuses to hire enough staff to realistically cover all duties, so why should they go out of their way to do a good job?","В конце концов, их работодатель отказывается нанимать достаточное количество сотрудников, чтобы реально выполнять все обязанности, так почему же они должны изо всех сил стараться выполнять свою работу хорошо?",Work,1,0,work
+4490,"Dinner At The Money Table I've got a day and a reason, Why I should not believe in..anything, anymore.","Ужин за денежным столом У меня есть день и причина, Почему я больше не должен верить ни во что.",Emotional Turmoil,6,5,unknown
+3095,work! we are short handed and so all the work gets dumped on me,"работа! у нас не хватает рабочих рук, поэтому всю работу сваливают на меня",Work,1,0,work
+2606,"The grocery store has become stressful lately,  the lines first then empty shelves","В последнее время в продуктовом магазине стресс: сначала очереди, затем пустые полки.",Other,6,5,unknown
+3657,You have agonizing nightmares that wake you up every night because you no longer feel secure in slumber.,"Вам снятся мучительные кошмары, которые будят вас каждую ночь, потому что во сне вы больше не чувствуете себя в безопасности.","Health, Fatigue, or Physical Pain",3,2,health
+4235,My life is kind of jumbled and confused and there are some lose ends I need to work out....,"Моя жизнь запутана и запутана, и мне нужно разобраться с некоторыми неясными моментами....",Emotional Turmoil,6,5,unknown
+6775,"As a result I currently have very little money in my bank account, my grades suck, and I'm just not happy with my life.","В результате на моем банковском счете сейчас очень мало денег, у меня плохие оценки, и я просто не доволен своей жизнью.",Financial Problem,5,4,finance
+668,I am wondering if the current virus situation is going to affect my job.,"Мне интересно, повлияет ли текущая ситуация с вирусом на мою работу.",Work,1,0,work
+4552,"now my laptop still isn't working properly, so I have to bring it BACK in, which is becoming a real bitch.","теперь мой ноутбук все еще не работает должным образом, поэтому мне приходится возвращать его НАЗАД, а это становится настоящей сукой.",Other,6,5,unknown
+3085,work stress...my computer has a virus or something and is locking up. :(,стресс на работе... мой компьютер заражен вирусом или чем-то еще и зависает. :(,Work,1,0,work
+5508,"Well, anyway, these two situations with my ""friends"" makes me feel like my friends aren't really friends, and I'm the fool.","Ну, в любом случае, эти две ситуации с моими «друзьями» заставляют меня чувствовать, что мои друзья на самом деле не друзья, а я дурак.",Social Relationships,4,3,friends
+6350,"Alright, so my mom is really starting to piss me off.","Ладно, моя мама действительно начинает меня бесить.",Family Issues,2,1,family
+5970,I couldn't REALLY afford to have a 2 week gap in pay between jobs.,Я ДЕЙСТВИТЕЛЬНО не мог позволить себе двухнедельный перерыв в оплате труда между работами.,Financial Problem,5,4,finance
+1450,i've been looking for a job now but haven't found anything as of yet.,"Я сейчас ищу работу, но пока ничего не нашел.",Work,1,0,work
+4477,Same stress and hecticness as always.,"Тот же стресс и суматоха, как всегда.",Everyday Decision Making,6,5,unknown
+3306,My body aches from sleep inefficiency.,Мое тело болит от бессонницы.,"Health, Fatigue, or Physical Pain",3,2,health
+1744,my boss has been demanding and it has been hard for me to focus at work.,"мой начальник был требователен, и мне было трудно сосредоточиться на работе.",Work,1,0,work
+6580,"Maybe I have social anxiety disorder, but I don't know because I'm a social person, I just don't like my parents parties.","Возможно, у меня социальное тревожное расстройство, но я не знаю, потому что я общительный человек, мне просто не нравятся вечеринки моих родителей.",Family Issues,2,1,family
+2109,my superiors at work are taking advantage of me,мое начальство на работе меня использует,Work,1,0,work
+6754,The region has been hit hard by the struggling economy.,Регион сильно пострадал от экономического кризиса.,Financial Problem,5,4,finance
+4982,I have so much work to do this week I hate the thought of it.,"У меня так много работы на этой неделе, что мне ненавистна мысль об этом.",Work,1,0,work
+591,i am so stressed because i have had to work mandatory overtime.,"я в таком стрессе, потому что мне пришлось работать сверхурочно.",Work,1,0,work
+1330,i'm stressed out at work and need help,у меня стресс на работе и мне нужна помощь,Work,1,0,work
+4008,i was almost late for work and then work just sucks in general.,"я чуть не опоздал на работу, а потом работа вообще отстой.",Work,1,0,work
+399,having to stay 6 feet away from everyone,необходимость держаться на расстоянии 6 футов от всех,Social Relationships,4,3,friends
+28,a recent project at my workplace has been giving much stress lately.,недавний проект на моем рабочем месте в последнее время вызывает большой стресс.,Work,1,0,work
+5696,"since my Nana died like a month and 2 days ago, I get really sad.","так как моя бабушка умерла месяц и два дня назад, мне очень грустно.",Family Issues,2,1,family
+123,bills,счета,Financial Problem,5,4,finance
+2459,sudden bill came up,внезапно появился счет,Financial Problem,5,4,finance
+6069,"Ive just been bombarded by so much work, my pap is really not doing well, and i thought one of my closest friends was upset at me.","Меня просто завалило таким большим количеством работы, у моего отца действительно дела идут неважно, и я думал, что один из моих самых близких друзей расстроился из-за меня.",Work,1,0,work
+977,i have gained some weight,я набрал вес,"Health, Fatigue, or Physical Pain",3,2,health
+801,i had difficulty making burritos,мне было трудно готовить буррито,Everyday Decision Making,6,5,unknown
+2618,the lack of leadership at work.,отсутствие руководства на работе.,Work,1,0,work
+2240,"oh ive been stressed out recently with my job, i dont feel like i am moving forward.","о, у меня недавно был стресс из-за моей работы, я не чувствую, что двигаюсь вперед.",Work,1,0,work
+3966,I have been really stressed trying to get all my shit together for finals etc.,"Я был очень напряжен, пытаясь собрать все свои силы перед финалом и т. д.",School,1,0,work
+1647,long hours at work and weekends,долгие часы на работе и выходные,Work,1,0,work
+1639,"life! if it isn't one thing, it's another","жизнь! если это не одно, то другое",Everyday Decision Making,6,5,unknown
+4250,"Needless to say, things are about to get hectic for me.","Излишне говорить, что дела у меня скоро станут беспокойными.",Other,6,5,unknown
+6452,"Today's the day, and I still don't know if I want to go for dinner with this guy.","Сегодня тот самый день, а я до сих пор не знаю, хочу ли я пойти поужинать с этим парнем.",Social Relationships,4,3,friends
+3149,you are what has been stressing me out friend,"ты меня напрягаешь, друг",Social Relationships,4,3,friends
+3522,have been in a bad mood this past day and a half. mostly on account of sickness. but is that really an excuse?,последние полтора дня был в плохом настроении. в основном из-за болезни. но разве это оправдание?,Emotional Turmoil,6,5,unknown
+971,i have been worried about the results of my son's blood work.,меня беспокоили результаты анализа крови моего сына.,Family Issues,2,1,family
+5550,They're apparently veyr busy during the holidays.,"Они, видимо, очень заняты во время праздников.",Other,6,5,unknown
+4222,"my emotions are so up and down lately, i dunno what im gonna do.","мои эмоции в последнее время так то поднимаются, то падают, что я не знаю, что мне делать.",Emotional Turmoil,6,5,unknown
+612,I am stressed about the economy.,Меня беспокоит экономика.,Financial Problem,5,4,finance
+2161,nobody seems to know how to refil the toilet paper,"кажется, никто не знает, как заправить туалетную бумагу",Other,6,5,unknown
+6619,"he never seems to think that anything is his problem, spills or knocks something off, its the containers or that which it was resting on is at fault.","Кажется, он никогда не думает, что что-то является его проблемой, что-то проливает или сбивает, виноваты контейнеры или то, на чем оно стояло.",Social Relationships,4,3,friends
+4367,"what makes me me, and what i should be doing with myself. because i don't feel very productive lately",что делает меня мной и что мне следует с собой делать. потому что я не чувствую себя очень продуктивным в последнее время,Emotional Turmoil,6,5,unknown
+6818,I asked her what happened and she told me her Husband thought she was cheating on him.,"Я спросил ее, что случилось, и она сказала мне, что ее муж думал, что она ему изменяет.",Family Issues,2,1,family
+2120,my vacation is coming up in two weeks and i have no money saved for it.,"Через две недели у меня отпуск, и у меня нет на него денег.",Financial Problem,5,4,finance
+5084,He is writing his thesis.,Он пишет диссертацию.,School,1,0,work
+380,Have to use less toilet paper!,Придется использовать меньше туалетной бумаги!,"Health, Fatigue, or Physical Pain",3,2,health
+350,girl christmas is coming up and i dont have any money to buy my children anything.,"Приближается Рождество, а у меня нет денег, чтобы купить что-нибудь своим детям.",Financial Problem,5,4,finance
+6280,my mom is really worried about me.,моя мама очень беспокоится за меня.,Family Issues,2,1,family
+4099,I'm stressed right now trying to get the last bit of school stuff taken care of.,"Я сейчас в стрессе, пытаясь позаботиться о последних школьных вещах.",School,1,0,work
+514,how to improve my savings and pay off bills.,как улучшить свои сбережения и оплатить счета.,Financial Problem,5,4,finance
+320,flat tire,спустило колесо,Other,6,5,unknown
+3490,"My sleeping schedule is alll fucked up, and it looks like I'm sick now too.","Мой график сна испорчен, и, похоже, я тоже заболел.","Health, Fatigue, or Physical Pain",3,2,health
+2557,"The COVID issue.  It's stressing me out, it's so difficult to think about anything else.","Проблема COVID.  Меня это напрягает, мне так трудно думать о чем-то другом.","Health, Fatigue, or Physical Pain",3,2,health
+3264,He's having trouble with his hand and leg right now so after the doctors appointment he'll give Jimmie an answer.,"У него сейчас проблемы с рукой и ногой, поэтому после приема у врача он даст Джимми ответ.","Health, Fatigue, or Physical Pain",3,2,health
+5196,i am also nervous about how this trip is going to effect my relationships.,"Я также нервничаю по поводу того, как эта поездка повлияет на мои отношения.",Social Relationships,4,3,friends
+3952,I had a clash of interest with some GCN people in the last day or two... and it sucks.,За последние день или два у меня произошло столкновение интересов с некоторыми людьми из GCN... и это отстой.,Other,6,5,unknown
+213,deadlines,сроки,Work,1,0,work
+5437,We had a great talk about interactions and how she is no longer going to tolerate people that don't help with her getting better.,"Мы отлично поговорили о взаимодействии и о том, как она больше не будет терпеть людей, которые не помогают ей поправиться.",Social Relationships,4,3,friends
+2020,my new boss at work is very power hungry.  it's gotten very bad.,мой новый начальник на работе очень жаждет власти.  стало очень плохо.,Work,1,0,work
+6164,My mother hurts my feelings when she comes around.,"Моя мать ранит мои чувства, когда приходит в себя.",Family Issues,2,1,family
+6583,"My girlfriend broke up with me around 3 days ago, I can't handle how much pain she put me through.","Моя девушка рассталась со мной около 3 дней назад, я не могу справиться с той болью, которую она мне причинила.",Emotional Turmoil,6,5,unknown
+4080,I'm sick of acting like my life is hard.,"Мне надоело вести себя так, будто у меня тяжелая жизнь.",Everyday Decision Making,6,5,unknown
+784,i got into an accident,я попал в аварию,"Health, Fatigue, or Physical Pain",3,2,health
+2647,the paper i need to write before school semester ends this year.,"статья, которую мне нужно написать до окончания школьного семестра в этом году.",School,1,0,work
+6510,i have a test today that i haven't really studied for.,"у меня сегодня тест, к которому я особо не готовился.",School,1,0,work
+3913,"I am going out of my mind with work, but i'll ""git errrr dunnnnn"" hahah.","Я схожу с ума от работы, но я ""эт ээээээээээээээээээээээээээээээлем"" хаха.",Work,1,0,work
+2081,my sleep scheldule is kinda messed up,у меня какой-то сбой в графике сна,"Health, Fatigue, or Physical Pain",3,2,health
+3406,I dont even get any medicine to take away the pain.,"У меня даже нет лекарства, которое могло бы облегчить боль.","Health, Fatigue, or Physical Pain",3,2,health
+6466,"As if I don't have enough stress ahead of me with the start of school, I have to constantly worry about employment.","Как будто мне не хватает стресса впереди с началом учебы, мне приходится постоянно беспокоиться о трудоустройстве.",Work,1,0,work
+880,i have been having long work schedules and a supervisor who nags all the time.,"У меня длинный график работы и начальник, который все время ворчит.",Work,1,0,work
+3365,Obviously I haven't been in the best of moods lately and my work so obviously suffered because of it.,"Очевидно, в последнее время я был не в лучшем настроении, и из-за этого явно пострадала моя работа.",Work,1,0,work
+5287,I think that it really sucks when someone hates you because you're friends with their ex girlfriend.,"Я думаю, это действительно отстой, когда кто-то тебя ненавидит, потому что ты дружишь с его бывшей девушкой.",Social Relationships,4,3,friends
+4331,They're startin' to get annoyed with me... and now I gotta tell 'em I can't make next week... shit.,"Они начинают на меня раздражаться... и теперь я должен им сказать, что не смогу приехать на следующей неделе... черт.",Social Relationships,4,3,friends
+4272,I'm all stressed about traveling up there and getting back in time for classes.,"Я очень переживаю из-за того, что поеду туда и успею вернуться на занятия.",School,1,0,work
+5575,"All because he yelled at me, he was blaming me, it hurts, it really does.","И все потому, что он кричал на меня, обвинял меня, это больно, правда.",Social Relationships,4,3,friends
+3938,I feel frustrated because at times I honestly just flat out struggle with dealing with a lot of this stuff.,"Я чувствую разочарование, потому что иногда мне, честно говоря, просто изо всех сил приходится справляться со многими этими вещами.",Everyday Decision Making,6,5,unknown
+6617,"man i just realized since he cant be out past 8 that means he cant be at my grandmas with me on christmas, that BLOWS ASS.","чувак, я только что понял, что раз он не может отсутствовать после 8, то это значит, что он не может быть со мной у бабушки на Рождество, это УДИВИТЕЛЬНО.",Family Issues,2,1,family
+95,being in the hospital for several days,находиться в больнице несколько дней,"Health, Fatigue, or Physical Pain",3,2,health
+2659,"the recent talks of war and conflict, and the economic turmoil from that.",недавние разговоры о войне и конфликтах и ​​вызванные ими экономические потрясения.,Financial Problem,5,4,finance
+1228,i'm directing a musical and my students have been giving me a lot of attitude.,"Я режиссирую мюзикл, и мои ученики очень хорошо ко мне относятся.",Social Relationships,4,3,friends
+3304,P.S. I've been having trouble sleeping.,P.S. У меня были проблемы со сном.,"Health, Fatigue, or Physical Pain",3,2,health
+4754,It wasn't enough that I'm already having difficulties eating meat.,"Мало того, что мне уже трудно есть мясо.","Health, Fatigue, or Physical Pain",3,2,health
+1170,i wasn't able to pay my car payment last month due to the holidays,я не смог заплатить за машину в прошлом месяце из-за праздников,Financial Problem,5,4,finance
+6012,My truck borke down last week so I don't have a truck that could make it to Kentucky.,"Мой грузовик сломался на прошлой неделе, поэтому у меня нет грузовика, который мог бы добраться до Кентукки.",Financial Problem,5,4,finance
+6123,"Financially, things are VERY tight.",В финансовом отношении дела ОЧЕНЬ тугие.,Financial Problem,5,4,finance
+1805,my child needs help in school and my husband's hours were cut,"моему ребенку нужна помощь в школе, а часы моего мужа сократили",Family Issues,2,1,family
+1814,my company is closing and my job is going away.,"моя компания закрывается, и я ухожу с работы.",Work,1,0,work
+2069,"my sink is leaking. i don' t know what's wrong, i just replaced it","моя раковина протекает. не знаю в чем дело, я только что заменил",Other,6,5,unknown
+1123,i overdrew my bank account by 200 dollars,я превысил свой банковский счет на 200 долларов,Financial Problem,5,4,finance
+6171,Found out I need surgery next week to remove what is causing the pain.,"Выяснилось, что на следующей неделе мне понадобится операция, чтобы устранить причину боли.","Health, Fatigue, or Physical Pain",3,2,health
+2693,"the usual kids, husband's job, and house","обычные дети, работа мужа и дом",Everyday Decision Making,6,5,unknown
+975,i have crazy diarrhea and it wont stop how do i fix it?,"у меня сумасшедший понос, который не прекращается, как мне это исправить?","Health, Fatigue, or Physical Pain",3,2,health
+658,I am upset because I can't go to grad school this fall.,"Я расстроена, потому что этой осенью я не смогу пойти в аспирантуру.",School,1,0,work
+1367,i'm worried about money.,я беспокоюсь о деньгах.,Financial Problem,5,4,finance
+3344,"So we'll probably end up drinking way too much and both getting sick, which is usually what happens.","Так что, вероятно, в конечном итоге мы выпьем слишком много и оба заболеем, что обычно и происходит.","Health, Fatigue, or Physical Pain",3,2,health
+2536,The coronavirus pandemic,Пандемия коронавируса,Emotional Turmoil,6,5,unknown
+4577,so today i have no plans except for the nagging complaints from my mother that i haven't finished cleaning out my room yet.,"Итак, сегодня у меня нет никаких планов, кроме назойливых жалоб мамы, что я еще не закончил убирать свою комнату.",Other,6,5,unknown
+4323,when i got home i got all stressed out again.,"когда я вернулся домой, я снова был в стрессе.",Family Issues,2,1,family
+1100,i moved in with my boyfriend too quickly and i realize i don't really like him now.,"я слишком быстро съехала со своим парнем и теперь понимаю, что он мне не очень нравится.",Social Relationships,4,3,friends
+1779,my boyfriend is overseas at the baghdad embassy. i worry over his safety.,"мой парень находится за границей, в посольстве Багдада. я беспокоюсь за его безопасность.",Social Relationships,4,3,friends
+4899,"Monday I have Grad. practice during the day, Tuesday is Graduation and I am supposed to start work on Wednesday.","В понедельник у меня выпускной. практика в течение дня, во вторник выпускной, и я должен приступить к работе в среду.",School,1,0,work
+6749,"You're the reason I can't trust people, the reason I hate talking, and the reason I'm so violent and internally rebellious.","Ты причина, по которой я не могу доверять людям, причина, по которой я ненавижу говорить, и причина, по которой я такой жестокий и внутренне бунтующий.",Social Relationships,4,3,friends
+88,being back at work,возвращаюсь на работу,Work,1,0,work
+5081,The worst part is that I will likely be riddled with anxiety all Summer in anticipation of stepping foot in a math class.,"Хуже всего то, что все лето я, скорее всего, буду пронизан тревогой в ожидании поступления на урок математики.",School,1,0,work
+387,having enough money for the holidays,иметь достаточно денег на праздники,Financial Problem,5,4,finance
+3299,My body aches from lack of sleep and shitty bed.,Тело ноет от недосыпа и дерьмовой постели.,"Health, Fatigue, or Physical Pain",3,2,health
+4542,"What and how am I going to do? Seriously, I can't foresee my future and I'm worrying every now and then.","Что и как я буду делать? Серьезно, я не могу предвидеть свое будущее и время от времени волнуюсь.",Everyday Decision Making,6,5,unknown
+2127,my wife just quit her job.,моя жена только что уволилась с работы.,Family Issues,2,1,family
+45,all of this covid stuff kinda,все эти ковидные штучки вроде как,Other,6,5,unknown
+6785,my budget is really tight.,мой бюджет очень ограничен.,Financial Problem,5,4,finance
+4642,I'm trying not to go on every day.,Я стараюсь не продолжать каждый день.,Other,6,5,unknown
+4049,I'm getting really nervous for when my dad leaves.,"Я очень нервничаю, когда мой отец уезжает.",Family Issues,2,1,family
+2091,my son is not getting used with doing homework and i have to spend all afternoon on that,"мой сын не привык делать домашнее задание, и мне приходится тратить на это весь день",Family Issues,2,1,family
+5802,"I hope you can understand that even though I have to get married to make an heir, I can't love her.","Надеюсь, вы понимаете: хотя мне и придется жениться, чтобы иметь наследника, я не могу ее любить.",Social Relationships,4,3,friends
+3460,"He's in constant pain, and can't even take enough pain medication to relieve it.","Он испытывает постоянную боль и не может даже принять достаточное количество обезболивающих, чтобы облегчить ее.","Health, Fatigue, or Physical Pain",3,2,health
+3194,i'm hungry but my stomach is thinking differently ughh gnite.,"я голоден, но мой желудок думает иначе, тьфу-тьфу.","Health, Fatigue, or Physical Pain",3,2,health
+1659,lot of work pressure past week. need relax. make a plan lets relax together.,"большое рабочее давление на прошлой неделе. нужно расслабиться. составим план, давай отдохнем вместе.",Work,1,0,work
+4507,"It's emotionally stressful being sick for this long, not to mention that being stuck at home every day by yourself gets old real fast.","Так долго болеть — это эмоционально стресс, не говоря уже о том, что каждый день застревать дома в одиночестве очень быстро стареешь.","Health, Fatigue, or Physical Pain",3,2,health
+3282,"I've gotten sick dizzy panic attacks and overheated so im scared and nervous, but i want this.","У меня начались приступы головокружения и паники, и я перегрелся, поэтому мне страшно и нервно, но я хочу этого.","Health, Fatigue, or Physical Pain",3,2,health
+2637,the only reason i have a place to stay is because of my friend.,"Единственная причина, по которой мне есть, где остановиться, это мой друг.",Social Relationships,4,3,friends
+1675,Me and my wife are almost at a point of divorce,Мы с женой почти на грани развода,Family Issues,2,1,family
+5552,Sometimes my husband GRATES on my nerves.,Иногда муж ДЕЙСТВУЕТ мне на нервы.,Family Issues,2,1,family
+4450,"Of course, any actual productivity is hindered by my perpetual lack of energy and motivation.","Конечно, моей реальной продуктивности мешает постоянный недостаток энергии и мотивации.",Emotional Turmoil,6,5,unknown
+882,i have been having problems with being threatened by a significant other.,у меня были проблемы с угрозами со стороны значимого другого человека.,Social Relationships,4,3,friends
+6720,I'm tired of caring.. I'm tired of emotions.,Я устала заботиться.. Я устала от эмоций.,Emotional Turmoil,6,5,unknown
+1124,i really haven't been able to get any sleep recently.,я действительно не мог заснуть в последнее время.,"Health, Fatigue, or Physical Pain",3,2,health
+1397,It is the coronavirus it have every one stress out,"Это коронавирус, от которого у всех стресс",Emotional Turmoil,6,5,unknown
+4657,The plates of food aren't nearly enough to make up for the fact that I have to deal with the family for a day.,"Тарелок с едой недостаточно, чтобы компенсировать тот факт, что мне придется целый день заниматься семьей.",Family Issues,2,1,family
+2966,when my friend freaks out on me for no good reason,когда мой друг злится на меня без веской причины,Social Relationships,4,3,friends
+5374,"I mean the word ""social"" often scares me, I have mixed emotions towards it.","Я имею в виду, что слово «социальный» меня часто пугает, у меня к нему смешанные чувства.",Social Relationships,4,3,friends
+2827,trump trying to start ww3,Трамп пытается начать Третью мировую войну,Other,6,5,unknown
+3981,i havent written in a while becuz ive been busy but im really sad about something rite now so yea.,"Я давно не писал, потому что был занят, но сейчас мне очень грустно из-за чего-то обряда, так что да.",Emotional Turmoil,6,5,unknown
+998,i have no clue what to fix for dinner.,"я понятия не имею, что приготовить на ужин.",Everyday Decision Making,6,5,unknown
+2041,my quarantine,мой карантин,Emotional Turmoil,6,5,unknown
+1849,"my dog has cancer, and i don't know how i'm going to afford his treatment.","у моей собаки рак, и я не знаю, как смогу позволить себе ее лечение.",Financial Problem,5,4,finance
+4615,Although I feel bad spending it all on food.,Хотя мне жаль тратить все это на еду.,Financial Problem,5,4,finance
+6306,In bad news my sister has tested positive for ovarian cancer..my family is devastated.,Плохие новости: у моей сестры обнаружен рак яичников. Моя семья опустошена.,Family Issues,2,1,family
+2970,whether or not i put enough money in savings.,"независимо от того, вкладываю ли я достаточно денег в сбережения.",Financial Problem,5,4,finance
+3335,When we get so tied up in so many things we often get tired and overly stressed!,"Когда мы так заняты многими делами, мы часто устаем и испытываем чрезмерный стресс!",Everyday Decision Making,6,5,unknown
+2581,The current healthcare situation COVID-19,Текущая ситуация со здравоохранением COVID-19,"Health, Fatigue, or Physical Pain",3,2,health
+6411,"You abhor routine and boring work, and you are not very good at staying with everyday tasks that must be finished on time.","Вы ненавидите рутинную и скучную работу и не очень хорошо справляетесь с повседневными задачами, которые необходимо выполнять вовремя.",Other,6,5,unknown
+6386,We have a lot of work to do at this point and we're getting started right now!!!,На данный момент нам предстоит много работы и мы начинаем прямо сейчас!!!,Work,1,0,work
+6560,"First the work my boss freaked out on me now brett's dad, i feel so bad for both of them and i am trying to empathize.","Сначала работа, которую мой босс на меня взбесил, теперь отец Бретта, мне так жаль их обоих, и я пытаюсь сочувствовать.",Work,1,0,work
+4975,I am really nervous for my other exams and like I really really want to get it over with already.,Я очень нервничаю перед другими экзаменами и мне очень хочется уже покончить с этим.,School,1,0,work
+211,darn lazy ass people at work. feed up with seeing people talking and not wo,"чертовски ленивые люди на работе. надоело видеть, как люди разговаривают, а не горе",Work,1,0,work
+2243,"Oh my god where do I begin I am STRESS, COVID, WHETHER OR NOT WERE GOING TO LIVE","Боже мой, с чего мне начать? У меня СТРЕСС, КОВИД, БУДЕМ ЖИТЬ ИЛИ НЕ БУДЕМ.","Health, Fatigue, or Physical Pain",3,2,health
+1167,i was stressed out this morning when the grocery store was so crowded.,"Сегодня утром я был в стрессе, когда в продуктовом магазине было так многолюдно.",Other,6,5,unknown
+5855,My family's falling apart and my mother is going into depression.,"Моя семья разваливается, а моя мать впадает в депрессию.",Family Issues,2,1,family
+1752,my boss is giving trouble,мой босс доставляет проблемы,Work,1,0,work
+2144,needing to have my boyfriend to be more productive overall.,"мне нужен мой парень, чтобы в целом работать более продуктивно.",Social Relationships,4,3,friends
+3705,That I'll be graduating and having to find a job next semester.,Что я закончу учебу и мне придется искать работу в следующем семестре.,Work,1,0,work
+5292,my dad is getting on my nerves he is starting to make me think his fuck buddy is more important to him than I am.,"мой отец действует мне на нервы, он начинает заставлять меня думать, что его приятель для него важнее, чем я.",Family Issues,2,1,family
+3710,I need to move in August and am worried about doing so with covid,"Мне нужно переехать в августе, и я беспокоюсь об этом из-за Covid",Emotional Turmoil,6,5,unknown
+6641,Fear of Negative Outcomes for Relationship Partners,Страх негативных последствий для партнеров по отношениям,Social Relationships,4,3,friends
+1797,my car is a lease and i am over the mileage allowed,"моя машина взята в аренду, и мой пробег превышает разрешенный пробег",Other,6,5,unknown
+4095,im starting to get really fed up with shit not getting done as far as our living arrangements are concerned.,"Мне начинает надоедать всякое дерьмо, которое не делается, что касается наших условий жизни.",Other,6,5,unknown
+3987,I loose track of all but this: the very definition of my very dysfunctional family relationships are changing.,"Я упускаю из виду все, кроме этого: само определение моих очень неблагополучных семейных отношений меняется.",Family Issues,2,1,family
+187,Coronavirus.  I am high risk because of asthma so I am worried,"Корона вирус.  У меня высокий риск из-за астмы, поэтому я волнуюсь","Health, Fatigue, or Physical Pain",3,2,health
+1205,i'am really weak.,я очень слаб.,"Health, Fatigue, or Physical Pain",3,2,health
+4352,"Until I get to the new place, I always feel such a sense of loss.","Пока я не доберусь до нового места, я всегда испытываю такое чувство утраты.",Emotional Turmoil,6,5,unknown
+4014,"I was getting frustrated today with it so, I stopped for a little bit.","Сегодня меня это расстраивало, поэтому я ненадолго остановился.",Everyday Decision Making,6,5,unknown
+3771,the skin issue on my face,проблема с кожей на моем лице,"Health, Fatigue, or Physical Pain",3,2,health
+1081,I live in a elderly community with nurses coming in and out I scared they will bring in,"Я живу в пожилом поселке, куда приходят и уходят медсестры, и я боюсь, что они приведут","Health, Fatigue, or Physical Pain",3,2,health
+2387,school is killing me at the moment.,школа убивает меня в данный момент.,School,1,0,work
+6736,I just meant  what you did yesterday was crazy dangerous and it scared the hell out of me.,"Я просто имел в виду, что то, что ты сделал вчера, было безумно опасно и меня чертовски напугало.",Social Relationships,4,3,friends
+4341,This stupid internship is making things very hard for me.,Эта дурацкая стажировка очень усложняет мне жизнь.,Work,1,0,work
+1496,i've been stressing out about my money situation,я переживал из-за своей денежной ситуации,Financial Problem,5,4,finance
+3927,I bitch about my job and my lack of a nicer one.,Я жалуюсь на свою работу и отсутствие лучшей работы.,Work,1,0,work
+2113,my truck has broken down and im not sure whats wrong with it.,"мой грузовик сломался, и я не знаю, что с ним не так.",Other,6,5,unknown
+3748,I have been stressing about my work situation.,Я переживал из-за своей ситуации на работе.,Work,1,0,work
+5382,"My mother got extremely angry when she heard what he said, and now my brother isn't playing for the Minutemen Flames 90 next year.","Моя мать очень разозлилась, когда услышала, что он сказал, и теперь мой брат не будет играть за Minutemen Flames 90 в следующем году.",Family Issues,2,1,family
+219,dealing with illness along with my wife,борюсь с болезнью вместе с женой,"Health, Fatigue, or Physical Pain",3,2,health
+3578,I feel like such a weak person.,Я чувствую себя таким слабым человеком.,Emotional Turmoil,6,5,unknown
+1501,iv'e been stressing over not having a lot of money to pay bills.,"Я переживал из-за того, что у меня не было много денег для оплаты счетов.",Financial Problem,5,4,finance
+2322,problem at work and school,проблемы на работе и в школе,Work,1,0,work
+829,i have a lot of family issues,у меня много семейных проблем,Family Issues,2,1,family
+5791,I have major problems and I need to figure out how to deal with them.,"У меня серьезные проблемы, и мне нужно понять, как с ними справиться.",Emotional Turmoil,6,5,unknown
+2682,the stupid virus and the people around me who do not take this serious!,"глупый вирус и люди вокруг меня, которые не воспринимают это всерьез!",Emotional Turmoil,6,5,unknown
+1135,i still haven't been able to overcome the stress of losing the relationship,я до сих пор не смог преодолеть стресс от потери отношений,Social Relationships,4,3,friends
+5744,Well I am all alone and sad and depressed but I feel it even more right now.,"Ну, я совсем одинокий, грустный и подавленный, но сейчас я чувствую это еще больше.",Emotional Turmoil,6,5,unknown
+2202,not having enough time in my day to get everything done and just being forgetful.,"у меня не хватает времени в день, чтобы все сделать, и я просто забывчив.",Everyday Decision Making,6,5,unknown
+2645,"The pandemic, hoarding, stupidity of people","Пандемия, накопительство, глупость людей","Health, Fatigue, or Physical Pain",3,2,health
+1741,my boss does not know how to manage people well and she has been rude all week,моя начальница не умеет хорошо управлять людьми и всю неделю вела себя грубо,Work,1,0,work
+6521,I am supposed to be working on an essay and studying for my Anabaptist history exam.,"Предполагается, что я работаю над эссе и готовлюсь к экзамену по анабаптистской истории.",School,1,0,work
+996,i have my step 1 exam coming up in 2 weeks,у меня экзамен по шагу 1 через 2 недели,School,1,0,work
+1058,i just can't seem to make enough money for this family.,"Кажется, я просто не могу заработать достаточно денег для этой семьи.",Financial Problem,5,4,finance
+1937,My husband's work had someone test positive for Coronavirus and they might shut down.,"На работе моего мужа у кого-то был положительный результат теста на коронавирус, и они могли закрыться.",Social Relationships,4,3,friends
+6518,"I need that class, because I need to work on my college portfolio.","Мне нужен этот урок, потому что мне нужно поработать над портфолио колледжа.",School,1,0,work
+659,I AM VERY  MUCH STRESSFUL BECAUSE OF MY HEALTH PROBLEM,Я испытываю ОЧЕНЬ СИЛЬНЫЙ СТРЕСС ИЗ-ЗА ПРОБЛЕМ СО ЗДОРОВЬЕМ,"Health, Fatigue, or Physical Pain",3,2,health
+5438,James I guess is trying to be a good friend but not doing a good job and is saying I will find from Gera but she isn't on.,"Джеймс, я думаю, пытается быть хорошим другом, но не очень хорошо справляется со своей задачей и говорит, что я найду у Геры, но ее нет.",Social Relationships,4,3,friends
+679,I am worried about my stepfather who is the primary income provider being laid off.,"Я беспокоюсь о том, что моего отчима, который является основным источником дохода, уволят.",Financial Problem,5,4,finance
+4246,My stepdad seems to have a problem with EVERYTHING I do these days.,"Кажется, у моего отчима проблемы со ВСЕМ, что я сейчас делаю.",Family Issues,2,1,family
+4566,"I really have a lot on my mind, but I can't seem to sort out my thoughts.","У меня действительно много мыслей, но я не могу разобраться в своих мыслях.",Emotional Turmoil,6,5,unknown
+3062,work is killing me!,работа меня убивает!,Work,1,0,work
+2312,Practicing social distancing at home for 7 days!!!!,Практикуем социальное дистанцирование дома в течение 7 дней!!!!,Emotional Turmoil,6,5,unknown
+3471,"I'm in a lot of body pain right now, oddly.","Как ни странно, у меня сейчас очень болит тело.","Health, Fatigue, or Physical Pain",3,2,health
+2549,the corono virus - wanting to leave the house but don't want to die,"короновирус – хочу выйти из дома, но не хочу умирать","Health, Fatigue, or Physical Pain",3,2,health
+3620,"First of all, I've been sick all week.","Во-первых, я болел всю неделю.","Health, Fatigue, or Physical Pain",3,2,health
+1865,my facebook might have been hacked.,мой Facebook мог быть взломан.,Other,6,5,unknown
+4621,One of the problems with all of this is that we have to struggle with this every day.,"Одна из проблем всего этого заключается в том, что нам приходится бороться с этим каждый день.",Other,6,5,unknown
+3214,"Simply because when you're tired you don't think and feel straight, right?","Просто потому, что когда ты устал, ты не думаешь и не чувствуешь себя ясно, верно?","Health, Fatigue, or Physical Pain",3,2,health
+2381,school has been very stressful,школа была очень напряженной,School,1,0,work
+4924,i do kno that i have a shit load of assholes in many of my classes and that always makes me very uncomfortable. for a first day,"Я знаю, что на многих моих занятиях у меня полно придурков, и это всегда доставляет мне дискомфорт. в первый день",School,1,0,work
+1765,my boss worked me more hours then i am capable of,"мой босс работал со мной больше часов, чем я могу",Work,1,0,work
+6206,Except that fact that my family drives me crazy.,"За исключением того факта, что моя семья сводит меня с ума.",Family Issues,2,1,family
+6476,There simply are not enough hours in a day.,В сутках просто не хватает часов.,Other,6,5,unknown
+2999,work has been crazy!,работа была сумасшедшей!,Work,1,0,work
+2954,"What else, the Global Pandemic!","Что еще, Глобальная Пандемия!","Health, Fatigue, or Physical Pain",3,2,health
+5289,what if we break up because i feel that i need to exlpore?,"что, если мы расстанемся, потому что я чувствую, что мне нужно что-то исследовать?",Social Relationships,4,3,friends
+6404,life is just to stressful to deal with.,"жизнь просто слишком напряжена, чтобы иметь с ней дело.",Emotional Turmoil,6,5,unknown
+4196,Lately My parents have been really nagging me.,В последнее время мои родители очень меня придирали.,Family Issues,2,1,family
+3245,I'm not having a real good day today. I feel depressed.,У меня сегодня не очень хороший день. Я чувствую себя подавленным.,Emotional Turmoil,6,5,unknown
+4978,"it was off to math test where I found out I did pretty horrible on a quiz, guess reading Che in class isn't helping my grade.","Это было на тесте по математике, где я обнаружил, что довольно плохо справился с контрольной, думаю, чтение Че в классе не улучшает мою оценку.",School,1,0,work
+2130,my work and this virus going around,моя работа и этот вирус распространяется,Work,1,0,work
+2029,my parents' health has been stressful for them and me.,здоровье моих родителей было стрессом для них и для меня.,Family Issues,2,1,family
+5697,It was so hurting when i found out that he was sad in this relationship.,"Было так больно, когда я узнала, что ему грустно в этих отношениях.",Social Relationships,4,3,friends
+1439,i've been having a hard time focusing at work lately so i haven't been succeeding,"в последнее время мне трудно сосредоточиться на работе, поэтому у меня ничего не получается",Work,1,0,work
+3679,I am so stressed that I lost my job.,"Я в таком стрессе, что потерял работу.",Work,1,0,work
+5286,I want to be his friend and a part of his life but I can't.,"Я хочу быть его другом и частью его жизни, но не могу.",Social Relationships,4,3,friends
+159,classes,занятия,School,1,0,work
+3606,The swelling is pushing against my ill defined sphincter and making me tres uncomfortable.,"Отек давит на мой плохо выраженный сфинктер, вызывая у меня дискомфорт.","Health, Fatigue, or Physical Pain",3,2,health
+3078,work life has not improved only getting worse,"трудовая жизнь не улучшилась, а только ухудшилась",Work,1,0,work
+571,i am not making enough money i don't have enough clientele,"я зарабатываю недостаточно денег, у меня недостаточно клиентов",Financial Problem,5,4,finance
+6538,high school drama is the worst.,школьная драма - худшая.,School,1,0,work
+5563,my problem now is that I can't find the balance of staying close with him as well as staying close with friends.,"моя проблема сейчас в том, что я не могу найти баланс между тем, чтобы оставаться рядом с ним и оставаться рядом с друзьями.",Social Relationships,4,3,friends
+199,covid19 has messed with my sleep schedule a bit,covid19 немного нарушил мой график сна,"Health, Fatigue, or Physical Pain",3,2,health
+5011,"I have a theology paper to write that was due Monday, cept I skipped that class.","Мне нужно написать работу по богословию, которую нужно было сдать в понедельник, но я пропустил этот урок.",School,1,0,work
+4298,so upset i didn't get to..yeah...today cuz many plans fell thru.,"так расстроена, что не успела... да... сегодня, потому что многие планы провалились.",Everyday Decision Making,6,5,unknown
+2586,The currently going corona virus situation.,Текущая ситуация с короновирусом.,"Health, Fatigue, or Physical Pain",3,2,health
+6487,This school year has eben stressful.,Этот учебный год был очень напряженным.,School,1,0,work
+6051,I don't know how this is going to be accomplished as of yet because I don't have money and I'm extremely uncoordinated.,"Я пока не знаю, как это будет реализовано, потому что у меня нет денег и я крайне нескоординирован.",Financial Problem,5,4,finance
+3754,"Covid 19, and my fight with Social Security to get disability started.",Covid 19 и началась моя борьба с Социальным обеспечением за инвалидность.,Financial Problem,5,4,finance
+298,finances have been really stressing me out lately.,финансы в последнее время меня очень напрягают.,Financial Problem,5,4,finance
+446,hi friend i had a problem a work and school ..shall we have lunch outside,"привет друг, у меня были проблемы на работе и в школе..пообедаем на улице",Work,1,0,work
+1886,My friend has been sick with the flu and they can't afford to get medicine.,"Мой друг заболел гриппом, и он не может позволить себе лекарства.",Social Relationships,4,3,friends
+3973,I have procrastinated too long and I'm going to be struggling to do stuff in the fall.,"Я слишком долго откладывал дела на потом, и мне будет сложно что-то сделать осенью.",Other,6,5,unknown
+4325,"right after work, I got all upset again.",сразу после работы я снова расстроилась.,Work,1,0,work
+3492,i've been losing my touch with reality and everyday is just getting worse and worse.,"я теряю связь с реальностью, и с каждым днем ​​становится все хуже и хуже.",Emotional Turmoil,6,5,unknown
+3815,I am so stressed. I dont know what to make for dinner tonight and we have guests coming.,"Я в таком стрессе. Я не знаю, что приготовить сегодня на ужин, а к нам приходят гости.",Social Relationships,4,3,friends
+423,hey there! i am feeling really stuck at my job right now.,Привет! сейчас я чувствую себя очень застрявшим на своей работе.,Work,1,0,work
+6056,I can't get enough money to live on.,"Я не могу получить достаточно денег, чтобы жить.",Financial Problem,5,4,finance
+5479,rachelle's boyfriend and i are in conflict.,У нас с парнем Рейчел конфликт.,Social Relationships,4,3,friends
+6664,"My nerves are at their breaking point right now, this whole Cameron situation is stressing me out.","Мои нервы сейчас на пределе, вся эта ситуация с Кэмероном меня напрягает.",Social Relationships,4,3,friends
+6496,I really have no motivation to study for my science test tomorrow.,У меня действительно нет мотивации готовиться к завтрашнему экзамену по естествознанию.,School,1,0,work
+3297,"My thoughts are spinning out of control, my head hurts, my heart aches, my eyes swollen from tears, and im tired, so frucking tired, but who has time to sleep.","Мысли выходят из-под контроля, болит голова, болит сердце, глаза опухли от слез, и я устал, чертовски устал, но у кого есть время спать.","Health, Fatigue, or Physical Pain",3,2,health
+2738,They cut my hours at work,Они сократили мои часы на работе,Work,1,0,work
+6201,"My dad is really mad at my bf about wat happened, and it really upsets me.","Мой отец очень злится на моего парня из-за того, что произошло, и это меня очень расстраивает.",Family Issues,2,1,family
+5657,See what happens when I get stressed out.,"Посмотрите, что происходит, когда я испытываю стресс.",Emotional Turmoil,6,5,unknown
+2464,ta going to jail,я попаду в тюрьму,Other,6,5,unknown
+4205,Life has been a series of expectations and disappointments for me recently.,В последнее время жизнь для меня была чередой ожиданий и разочарований.,Other,6,5,unknown
+5600,it happens sorry change is very stressful for me.,"такое бывает, извините, перемены для меня очень напряжены.",Emotional Turmoil,6,5,unknown
+3722,Trying to find things that are sold out at stores.,"Пытаюсь найти вещи, которые распроданы в магазинах.",Other,6,5,unknown
+6526,"Although I am still in school, I am trying to graduate early and get out of this death trap.","Хотя я все еще учусь в школе, я пытаюсь закончить школу раньше и выбраться из этой смертельной ловушки.",School,1,0,work
+349,gf,подруга,Social Relationships,4,3,friends
+4960,"classes are starting to bore me, which i think is bad this early in the semester. off to plan some more.","занятия начинают мне надоедать, и я считаю, что это плохо в начале семестра. ушел, чтобы спланировать еще немного.",School,1,0,work
+6151,"Except that now i'm going through a difficult week cause it's the annivesary of my brother's death, and that never feels good.","За исключением того, что сейчас у меня тяжелая неделя, потому что сегодня годовщина смерти моего брата, а это никогда не радует.",Emotional Turmoil,6,5,unknown
+5873,"It just confused me more, and my head is now going to proceed to explode.","Это только еще больше смутило меня, и теперь моя голова взорвется.",Other,6,5,unknown
+6637,The kids called last night and Devin seemed really sad and I hate the fact I'm not there.,"Вчера вечером позвонили дети, и Девин выглядел очень грустным, и я ненавижу тот факт, что меня там нет.",Family Issues,2,1,family
+4053,"I'm getting tired and stuff, so Ill finish here.","Я устаю и все такое, так что закончу здесь.",Other,6,5,unknown
+4203,let the games begin... already i'm stressed about everything i have to do.,"пусть начнутся игры... я уже в стрессе из-за всего, что мне нужно сделать.",Other,6,5,unknown
+5521,The girl beside me is being a whiny bitch to her boyfriend.,Девушка рядом со мной ведет себя плаксиво по отношению к своему парню.,Other,6,5,unknown
+3372,i'm sore. my body aches.,мне больно. мое тело болит.,"Health, Fatigue, or Physical Pain",3,2,health
+3518,"I've not been home in awhile,..so most of my food had gotten sad.","Я давно не был дома, так что большая часть моей еды испортилась.",Other,6,5,unknown
+64,"as i'm applying to nursing schools, there's so many applicants i hope i get in.","Поскольку я подаю заявление в школу медсестер, желающих попасть так много, что я надеюсь.",School,1,0,work
+1929,my husband owes paypal $250 dollars today and  don't know how he is going to pay it!,"мой муж сегодня должен PayPal 250 долларов и не знает, как он собирается их выплатить!",Financial Problem,5,4,finance
+1287,i'm pretty stressed about school i didnt do very well on my test,"я очень переживаю из-за школы, я не очень хорошо сдал тест",School,1,0,work
+967,i have been worried about finances.,я беспокоился о финансах.,Financial Problem,5,4,finance
+1843,my daughter wont pick up after herself even after numerous things taken away from her.,"моя дочь не убирает за собой даже после того, как у нее отобрали множество вещей.",Family Issues,2,1,family
+5326,Im really worried about going back to work on Saturday.,Я очень волнуюсь по поводу возвращения на работу в субботу.,Work,1,0,work
+1507,I've been super stressed out about my girlfriend and our relationship.,Я очень переживал из-за своей девушки и наших отношений.,Social Relationships,4,3,friends
+5943,It just reinforces how depressed and alone I really feel.,"Это только усиливает то, насколько подавленным и одиноким я себя чувствую.",Emotional Turmoil,6,5,unknown
+2437,Staying home from the CV outbreak,Оставайтесь дома во время вспышки сердечно-сосудистых заболеваний,"Health, Fatigue, or Physical Pain",3,2,health
+1520,i've been working a lot of overtime.,я много работал сверхурочно.,Work,1,0,work
+4469,"People came, cooked, ate and left and we still hadn't got ourselves organised.","Люди приходили, готовили, ели и уходили, а мы все еще не организовались.",Other,6,5,unknown
+894,I have been really stressed about being separated from my boyfriend from Canada.,Я очень переживала из-за разлуки со своим парнем из Канады.,Social Relationships,4,3,friends
+5819,Your brother tells you he's in jail what do you say? what happened?,"Твой брат сказал тебе, что он в тюрьме, что ты скажешь? что случилось?",Family Issues,2,1,family
+1963,my job it has been full of crazy stuff.,моя работа была полна сумасшедших вещей.,Work,1,0,work
+1122,i needed to know if you though charging my credit card would be a good idea,"мне нужно было знать, считаете ли вы, что снятие средств с моей кредитной карты было бы хорошей идеей",Financial Problem,5,4,finance
+2616,the kids being home from school for winter break,дети возвращаются из школы на зимние каникулы,Social Relationships,4,3,friends
+6114,This stupid money situation is coming down on me pretty hard right now.,Эта дурацкая ситуация с деньгами сейчас очень тяжело обрушивается на меня.,Financial Problem,5,4,finance
+895,i have been really stressed about money lately,в последнее время меня очень беспокоит вопрос денег,Financial Problem,5,4,finance
+6247,I understand that my parents had no control over the situation and that bothers them.,"Я понимаю, что мои родители не контролировали ситуацию и это их беспокоит.",Family Issues,2,1,family
+4650,My schedule is really busy. as of right now,Мой график очень загружен. на данный момент,Everyday Decision Making,6,5,unknown
+5908,The recurrent nightmare I had since my uncle's death when I was twelve years old.,"Повторяющийся кошмар, который снился мне после смерти моего дяди, когда мне было двенадцать лет.",Emotional Turmoil,6,5,unknown
+5497,"Now, this week was already busy and ending early becuase I have class again this weekend and leave tonight.","Эта неделя уже была занята и закончилась рано, потому что на этих выходных у меня снова занятия, и я уезжаю сегодня вечером.",School,1,0,work
+4999,i've been busy with school and work so i hardly have any me time.,"Я был занят учебой и работой, поэтому у меня почти нет времени.",Work,1,0,work
+4887,Dread school tomorrow! I haven't finished studying for midterms yet omg!!,"Завтра ужасная школа! Я еще не закончил подготовку к промежуточным экзаменам, боже мой!!",School,1,0,work
+4750,Dan started stressing me out about our apartment situation right in the middle of my project doing. DAN!!!!!!,Дэн начал беспокоить меня по поводу нашей ситуации с квартирой прямо в середине работы над моим проектом. ДЭН!!!!!!,Social Relationships,4,3,friends
+4026,"If I don't call, or spend time with them, I feel guilty.","Если я не звоню им и не провожу с ними время, я чувствую себя виноватым.",Social Relationships,4,3,friends
+6815,I'm becoming quite upset with being my fathers son of late.,"В последнее время меня очень расстраивает то, что я сын своего отца.",Family Issues,2,1,family
+3038,work has been super busy and i can't keep up,"работа очень загружена, и я не успеваю",Work,1,0,work
+1448,"i've been in a long-term, long-distance relationship with a woman who's 1000 miles away","у меня были длительные отношения на расстоянии с женщиной, которая находится за 1000 миль от меня",Social Relationships,4,3,friends
+4567,with the encounter looming there was a lot of work to do.,предстоящая встреча предстояла большая работа.,Social Relationships,4,3,friends
+161,college,колледж,School,1,0,work
+1319,i'm stressed about school and therapy.,я испытываю стресс из-за школы и терапии.,School,1,0,work
+4788,thinking too much is tiring and worrisome when you have nothing else to do but work work work. right now,"слишком много думать утомительно и тревожно, когда вам больше нечего делать, кроме работы, работы, работы. прямо сейчас",Work,1,0,work
+3570,A few hours later dog breaks with FOUL smelling bloody diarrhea and vomiting.,Через несколько часов у собаки начинается неприятный запах кровавой диареи и рвоты.,Family Issues,2,1,family
+6782,Not my fault you can't afford to pay your bills.,"Не моя вина, что ты не можешь позволить себе оплатить счета.",Financial Problem,5,4,finance
+3494,"Anyways, my lows are the more worriesome where i fall into a depression so badly that its hard to even get out of bed.","В любом случае, мои спады вызывают большее беспокойство, когда я впадаю в такую ​​сильную депрессию, что мне трудно даже встать с постели.",Emotional Turmoil,6,5,unknown
+1692,money i can't pay bills and buy christmas,"Деньги, я не могу оплатить счета и купить Рождество",Financial Problem,5,4,finance
+2012,my mother in law is annoying me so much,моя свекровь меня так раздражает,Family Issues,2,1,family
+6349,"your family, and your very impressionable children about a basic requirement for life is NOT OKAY!",ваша семья и ваши очень впечатлительные дети по поводу основных требований к жизни - НЕ ХОРОШО!,Family Issues,2,1,family
+3160,So I'm feeling sick and have bad back cramps. Plus,"Итак, я плохо себя чувствую и у меня сильные судороги в спине. Плюс","Health, Fatigue, or Physical Pain",3,2,health
+4244,My school work is starting to get bad again.,Моя школьная успеваемость снова начинает ухудшаться.,School,1,0,work
+1826,my credit card balance are so high.,баланс моей кредитной карты настолько велик.,Financial Problem,5,4,finance
+1313,I'm stressed about my family getting sick,"Я переживаю из-за того, что моя семья заболела","Health, Fatigue, or Physical Pain",3,2,health
+5190,i feel like i don't really know what's going on in my friends lives anymore and that makes me sad.,"мне кажется, что я больше не знаю, что происходит в жизни моих друзей, и это меня расстраивает.",Social Relationships,4,3,friends
+359,Going out to the store and ppl sneezing without covering the mouth OMG,"Выхожу в магазин и люди чихают, не прикрывая рта, ОМГ","Health, Fatigue, or Physical Pain",3,2,health
+5471,"i havent heard anything from tom all day, and dads been annoying me.","Я ничего не слышал от Тома весь день, и папы меня раздражали.",Family Issues,2,1,family
+5935,I don't know what to do for the remaining hours of today.,"Я не знаю, чем заняться оставшиеся сегодня часы.",Everyday Decision Making,6,5,unknown
+3532,A father tells a story about his son sick with cancer.,"Отец рассказывает историю о своем сыне, больном раком.","Health, Fatigue, or Physical Pain",3,2,health
+3661,I have to work at night often because I couldn't focus enough due to pain interrupting my day.,"Мне часто приходится работать по ночам, потому что я не мог сосредоточиться из-за боли, прерывающей мой день.","Health, Fatigue, or Physical Pain",3,2,health
+5387,You find yourself weak when your relationship partners demonstrates an inability to solve personal problems.,"Вы чувствуете себя слабым, когда ваш партнер по отношениям демонстрирует неспособность решать личные проблемы.",Social Relationships,4,3,friends
+93,Being home with the kids all day during this pandemic!,Во время этой пандемии быть дома с детьми весь день!,Family Issues,2,1,family
+3858,"to top it all off, now I'm worried about my dreams because they've started to become inconsistent.","в довершение ко всему, теперь я беспокоюсь о своих снах, потому что они стали противоречивыми.",Emotional Turmoil,6,5,unknown
+1749,my boss is an asshole.,мой босс - мудак.,Work,1,0,work
+3014,work has been rough,работа была жесткой,Work,1,0,work
+4942,the tests are really gonna be important for my grades.,тесты действительно будут важны для моих оценок.,School,1,0,work
+1248,i'm having trouble finding a place big enough for all of us.,"Мне трудно найти место, достаточно большое для всех нас.",Other,6,5,unknown
+4852,I am just soooooo worried about school.,Я просто ооооочень волнуюсь за школу.,School,1,0,work
+3315,"Wish I could get a good night's sleep, but even when I find time I can't find the peace I need to settle down.","Мне хотелось бы хорошо выспаться, но даже когда я нахожу время, я не могу найти покой, который мне нужен, чтобы успокоиться.","Health, Fatigue, or Physical Pain",3,2,health
+5951,"Gosh, this hurts me so much.","Господи, мне так больно.",Emotional Turmoil,6,5,unknown
+4015,I was getting too uptight about work.,Я стал слишком зациклен на работе.,Work,1,0,work
+3793,"My roommate has lost his job, and isn't able to pay full rent.",Мой сосед по комнате потерял работу и не может платить полную арендную плату.,Financial Problem,5,4,finance
+2603,The global pandemic has been stressing me out.,Глобальная пандемия вызвала у меня стресс.,"Health, Fatigue, or Physical Pain",3,2,health
+6819,"my parent's broke up cause ""mom was sick"".","мои родители расстались, потому что «мама заболела».",Family Issues,2,1,family
+6394,"We are getting ready to move out of our flat, it's very hectic and I'm really stressed out because I'm worried we won't get everything out in time.","Мы готовимся переехать из нашей квартиры, это очень беспокойно, и я очень нервничаю, потому что боюсь, что мы не успеем вынести все вовремя.",Everyday Decision Making,6,5,unknown
+1794,my car has been in the auto shop all week for repairs so i haven't had a car.,"Моя машина всю неделю стояла в автомагазине на ремонте, поэтому у меня не было машины.",Other,6,5,unknown
+724,i didn't get the position i want at work. they lied to me!,я не получил желаемую должность на работе. они обманули меня!,Work,1,0,work
+2266,one of my textbooks may not deliver on time for class.,один из моих учебников может не доставиться к уроку вовремя.,School,1,0,work
+4635,It's because I have far too much work to do and not enough time to do it in.,"Это потому, что у меня слишком много работы и недостаточно времени, чтобы ее выполнить.",Work,1,0,work
+697,I can't come up with a great idea,Я не могу придумать отличную идею,Other,6,5,unknown
+2884,"ugh, work really sucks right now.  i'm so stressed out.","тьфу, работа сейчас действительно отстой.  я в таком стрессе.",Work,1,0,work
+1128,i really want to work on my project but i just don't have the energy.,"я очень хочу поработать над своим проектом, но у меня просто нет сил.","Health, Fatigue, or Physical Pain",3,2,health
+1203,"I would text back regarding the health of my dog, who has cancer.","Я бы ответил по поводу здоровья моей собаки, у которой рак.","Health, Fatigue, or Physical Pain",3,2,health
+2784,this problem at work has been driving me crazy if you have a minute,"эта проблема на работе сводит меня с ума, если у тебя есть минутка",Work,1,0,work
+6097,"Besides we are moving that weekend and I am going to be flat broke from paying two months rent and frankly, I don't want to drive to AR.","Кроме того, на этих выходных мы переезжаем, и я останусь без денег из-за оплаты двухмесячной аренды, и, честно говоря, я не хочу ехать в AR.",Everyday Decision Making,6,5,unknown
+1382,i'm worried i'm not working hard enough,"я волнуюсь, что недостаточно усердно работаю",Work,1,0,work
+6003,I don't make money to add to our finances.,"Я не зарабатываю деньги, чтобы пополнить наши финансы.",Financial Problem,5,4,finance
+3037,Work has been stressing me out. There is alot of drama.,Работа меня напрягала. Здесь много драмы.,Work,1,0,work
+1300,i'm so stressed out i burned my pizza,"я в таком стрессе, что сгорела пицца",Other,6,5,unknown
+5555,"My performance at work isn't so great these days, although I don't know if my boss notices.","Сейчас моя производительность на работе не так уж и хороша, хотя я не знаю, замечает ли это мой начальник.",Work,1,0,work
+584,"i am selling my house, but so far there have been no offers.","Продаю свой дом, но предложений пока не поступало.",Everyday Decision Making,6,5,unknown
+1033,I have to upload a video of myself giving a speech,"Мне нужно загрузить видео, где я произношу речь.",School,1,0,work
+3270,Yes I have bad habits and yes my weight needs help.,"Да, у меня есть вредные привычки, и да, моему весу нужна помощь.","Health, Fatigue, or Physical Pain",3,2,health
+2291,paying off my debts,погасить мои долги,Financial Problem,5,4,finance
+5167,Which means I have to go back to school.,"А это значит, что мне пора возвращаться в школу.",School,1,0,work
+3996,I should sort myself out but I just haven't been in the mood to work this year.,"Мне надо разобраться с собой, но в этом году у меня просто не было настроения работать.",Work,1,0,work
+4636,i am easily overwhelmed and can't get a goddamn thing done. ya,я легко теряюсь и не могу ни черта сделать. да,Emotional Turmoil,6,5,unknown
+2489,The amount of work due to remote learning is taking a toll on me.,Объем работы из-за дистанционного обучения сказывается на мне.,School,1,0,work
+2499,"the corona virus , and the response of the governments and people",вирус короны и реакция правительств и людей,Other,6,5,unknown
+3965,"I have been putting it off, which isn't good cuz i need to do well in that class","Я откладывал это, и это нехорошо, потому что мне нужно хорошо учиться в этом классе.",School,1,0,work
+175,corona virus is sprending like a wildfire,Вирус короны распространяется как лесной пожар,"Health, Fatigue, or Physical Pain",3,2,health
+2451,stressing,подчеркивая,Other,6,5,unknown
+79,been slammed at work with the holidays coming up.,был завален на работе из-за приближающихся праздников.,Work,1,0,work
+1641,life's a bust!  i just got a speeding ticket.,жизнь-перебор!  я только что получил штраф за превышение скорости.,Other,6,5,unknown
+2305,planning menus for two different dinner parties in one weekend,планирование меню для двух разных званых обедов за один уик-энд,Work,1,0,work
+1770,my boyfriend and i are fighting and i don't know what to do.,"мы с моим парнем ссоримся, и я не знаю, что делать.",Emotional Turmoil,6,5,unknown
+4794,I feel so stressed out in deciding what to do with my life.,"Я чувствую такой стресс, решая, что делать со своей жизнью.",Everyday Decision Making,6,5,unknown
+1022,I have some problems at work.,У меня проблемы на работе.,Work,1,0,work
+4076,i'm really worried about the whole moving out thing.,я очень волнуюсь по поводу всего этого переезда.,Family Issues,2,1,family
+2910,we have some big changes going on at work with our email and it is not going very well.,"у нас происходят большие изменения в работе с нашей электронной почтой, и дела идут не очень хорошо.",Work,1,0,work
+4191,"Lately I feel like I'm running out of time, and it's really starting to bother me.","В последнее время я чувствую, что у меня заканчивается время, и это меня действительно начинает беспокоить.",Other,6,5,unknown
+4685,The usual stressor in my life.,Обычный стрессор в моей жизни.,Other,6,5,unknown
+172,corona,корона,Other,6,5,unknown
+1117,I need to find a work from home job that isn't a scam.,"Мне нужно найти работу на дому, которая не является мошенничеством.",Work,1,0,work
+2327,project deadline is approaching and i'm not finished yet,"Срок реализации проекта приближается, а я еще не закончил",Work,1,0,work
+6540,I have an exam tomorrow and I haven't studied.,"Завтра у меня экзамен, а я еще не учился.",School,1,0,work
+1087,"I LOST MY JOB BECAUSE OF THE CORONAVIRUS, NOW IM COLLECTING UNEMPLOYMENT.","Я ПОТЕРЯЛА РАБОТУ ИЗ-ЗА КОРОНАВИРУСА, ТЕПЕРЬ СОбираю БЕЗРАБОТИЦУ.",Financial Problem,5,4,finance
+6727,My fucking idiot of a brother.. IS IN JAIL AGAIN,Мой чертов идиотский брат.. СНОВА В ТЮРЬМЕ.,Family Issues,2,1,family
+3701,Just stressed about being furloughed and our upcoming move,Просто переживаю из-за отпуска и предстоящего переезда.,Work,1,0,work
+5747,I'm tired of being stressed out.,Я устал от стресса.,Emotional Turmoil,6,5,unknown
+4024,I went back after work and it had gotten scary.,"Я вернулся после работы, и мне стало страшно.",Work,1,0,work
+5666,Grief is such a complicated process that affects so many things.,"Горе — очень сложный процесс, который влияет на очень многое.",Emotional Turmoil,6,5,unknown
+3464,"Its always the worse when you are so sad, so lost, that there are no words to help convey the matter.","Всегда хуже, когда ты настолько грустен, настолько потерян, что нет слов, чтобы передать суть дела.",Emotional Turmoil,6,5,unknown
+2861,trying to keep up and pay down my credit card debts.,пытаюсь не отставать и погасить долги по кредитной карте.,Financial Problem,5,4,finance
+4487,"No matter how hard I try, I just can't get enough time in the day to do everything.","Как бы я ни старался, мне просто не хватает времени в течение дня, чтобы сделать все.",Everyday Decision Making,6,5,unknown
+1554,"just about everything that can go wrong is going wrong,","почти все, что может пойти не так, идет не так,",Other,6,5,unknown
+6842,My mom said that she hardly ever gets to see me and that she feels guilty for not spending time with me.,"Моя мама сказала, что она почти никогда меня не видит и чувствует себя виноватой за то, что не проводит со мной времени.",Family Issues,2,1,family
+3366,"I'm really tired and have been feeling kinda bummed lately, and my lesson wasn't that great either.","Я очень устал и в последнее время чувствую себя немного расстроенным, и мой урок тоже был не таким уж хорошим.",Emotional Turmoil,6,5,unknown
+3083,work still,работать еще,Work,1,0,work
+735,i don't have insurance and i have a huge bill from the emergency room.,у меня нет страховки и огромный счет за отделение неотложной помощи.,Financial Problem,5,4,finance
+1942,my job adds more with with my extra pay stresses me out.,"моя работа добавляет больше, а дополнительная зарплата меня напрягает.",Work,1,0,work
+5378,I guess you just have too many problems of your own to deal with because of whatever reason and you don't have time to have friends.,"Я думаю, у тебя просто слишком много собственных проблем, которые нужно решать по какой-то причине, и у тебя нет времени заводить друзей.",Emotional Turmoil,6,5,unknown
+3036,work has been stressing me out. i want to quit my job so badly.,работа меня напрягала. я так хочу бросить работу.,Work,1,0,work
+2789,This virus is stressing me out.,Этот вирус вызывает у меня стресс.,"Health, Fatigue, or Physical Pain",3,2,health
+2040,my psycho ex boyfriend,мой бывший парень-психопат,Social Relationships,4,3,friends
+126,boss at work,босс на работе,Work,1,0,work
+5137,"i haven't updated in forever cause i've been tired, and busy and stressed because of school.","Я не обновлялся целую вечность, потому что я устал, был занят и находился в стрессе из-за школы.",School,1,0,work
+1885,my friend being mad at me,мой друг злится на меня,Social Relationships,4,3,friends
+4549,"So its hard to take care of them all, since they work and fixing up their freshly built house.","Поэтому сложно о них всех позаботиться, так как они работают и ремонтируют свой недавно построенный дом.",Family Issues,2,1,family
+644,i am struggling with my son and his school not following his iep plan.,"Я борюсь с тем, что мой сын и его школа не следуют его плану IEP.",School,1,0,work
+2417,"so recently me and my ex started back talking, but it ended on a negative note.","недавно мы с бывшим возобновили разговор, но закончился он на негативной ноте.",Emotional Turmoil,6,5,unknown
+4199,"Lately, again hopefully caused by my period, I have been feeling unloved.","В последнее время, опять же, надеюсь, из-за менструации, я чувствую себя нелюбимой.",Emotional Turmoil,6,5,unknown
+4427,"Every day is a challenge, there were no easy days.","Каждый день – это испытание, легких дней не было.",Other,6,5,unknown
+3659,Wayyyyy too many late nights and sleeping untill i have to go to work.,"Уууууу, слишком много ночей допоздна и сна, пока мне не придется идти на работу.",Work,1,0,work
+2896,upset today. tell me something to relax,"расстроен сегодня. скажи мне что-нибудь, чтобы расслабиться",Emotional Turmoil,6,5,unknown
+4833,i couldnt finish it in time so i just didnt go to school.,"Я не смог закончить это вовремя, поэтому просто не пошел в школу.",School,1,0,work
+487,home life sucksso many fights,"Домашняя жизнь — отстой, так много ссор",Family Issues,2,1,family
+6673,"Well, I'm still sad over mom being in the home, a friend may have lost his job, and to add insult to injury, I was dumped and betrayed.","Что ж, мне все еще грустно из-за того, что мама дома, друг, возможно, потерял работу, и, что еще больше огорчает травму, меня бросили и предали.",Family Issues,2,1,family
+2639,the overwhelming thought of being at home during COVID-19,"непреодолимая мысль о том, чтобы быть дома во время COVID-19",Emotional Turmoil,6,5,unknown
+5656,Lots of things causing stress.,"Множество вещей, вызывающих стресс.",Other,6,5,unknown
+4843,this is very stressful with school etc.,это очень стрессовая ситуация в школе и т. д.,School,1,0,work
+4257,oh well...maybe next time (I hope)...things have been real shitty lately...I cant get things of my mind...,"ну ладно... может быть, в следующий раз (надеюсь)... в последнее время дела идут совсем дерьмово... Я ничего не могу понять...",Other,6,5,unknown
+6262,I'm crying because I know this is going to hit my family hard when they've already been through so much.,"Я плачу, потому что знаю, что это сильно ударит по моей семье, ведь они уже столько всего пережили.",Family Issues,2,1,family
+6075,"my family is so broke rite now that they cant even afford to pay for our van's registration and inspection, so pretty much i am fuct.","Моя семья сейчас настолько нарушила обряды, что не может позволить себе даже заплатить за регистрацию и осмотр нашего фургона, так что я почти в порядке.",Financial Problem,5,4,finance
+2245,oh my goodness where do i start? my teenagers have been stressing me out to the max,"о боже мой, с чего мне начать? мои подростки меня до предела напрягали",Family Issues,2,1,family
+6719,"god, i already feel like i've been through a divorce.","боже, у меня уже такое ощущение, будто я пережила развод.",Emotional Turmoil,6,5,unknown
+4953,I have a college orientation Wednesday and Thursday down at Kutztown.,В среду и четверг у меня ориентация в колледже в Кутцтауне.,School,1,0,work
+2128,my wife keeps bugging me.,моя жена постоянно меня достает.,Family Issues,2,1,family
+6359,"All the fun had stopped when I got home and got into a fight with my mom over not calling her, etc.","Все веселье прекратилось, когда я вернулся домой и поругался с мамой из-за того, что не позвонил ей, и т. д.",Family Issues,2,1,family
+1326,i'm stressed out about my financial situation.,меня беспокоит мое финансовое положение.,Financial Problem,5,4,finance
+2084,my son and sleep,мой сын и сон,Family Issues,2,1,family
+92,being home for several weeks at a time,быть дома несколько недель подряд,Emotional Turmoil,6,5,unknown
+246,driving my kids all over town is getting crazy and really stressing me out,возить своих детей по всему городу - это сводит меня с ума и меня очень напрягает,Family Issues,2,1,family
+1610,lack of job options put there,"отсутствие вариантов работы, указанных там",Work,1,0,work
+2840,trying to figure out a budget for the month.,Пытаюсь рассчитать бюджет на месяц.,Financial Problem,5,4,finance
+1416,Its easily this horrible virus going around. It is been tough and staying home sucks,"Этот ужасный вирус легко распространяется. Это было тяжело, и оставаться дома — отстой","Health, Fatigue, or Physical Pain",3,2,health
+1681,money,деньги,Financial Problem,5,4,finance
+3116,Working with people who are sick,Работа с больными людьми,Work,1,0,work
+5509,"even if they notice something is wrong, no one bothers for question because the truth is no one gives two shits about me and my choices and my life.","даже если они заметят, что что-то не так, никто не станет задавать вопросы, потому что правда в том, что всем плевать на меня, мой выбор и мою жизнь.",Emotional Turmoil,6,5,unknown
+1340,i''m super stressed about money,я очень переживаю из-за денег,Financial Problem,5,4,finance
+137,"calm friend, everything will be fine, remember to stay calm","спокойный друг, все будет хорошо, не забывай сохранять спокойствие",Emotional Turmoil,6,5,unknown
+4622,"I have 3 months of intense study ahead of me ,I'm looking foward to it emensely.","Впереди у меня 3 месяца интенсивной учебы, я с нетерпением жду этого.",School,1,0,work
+6745,then those nights when i just cry and the days when family members die and young ppl die i just wonder why.,"потом в те ночи, когда я просто плачу, и в дни, когда умирают члены семьи и молодые люди, я просто задаюсь вопросом, почему.",Family Issues,2,1,family
+1695,money issues and job availability; there never seems to be enough of both.,"денежные проблемы и наличие работы; и того, и другого, кажется, никогда не бывает достаточно.",Financial Problem,5,4,finance
+5123,On top of worrying about that paper I have to worry about studying for my other finals.,"Помимо беспокойства об этой работе, мне нужно беспокоиться о подготовке к другим выпускным экзаменам.",School,1,0,work
