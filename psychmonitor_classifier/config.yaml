@@ -1,8 +1,8 @@
 # Конфигурация блока C PsychMonitor
 
 model:
-  name: "cointegrated/rubert-tiny2"   # компактная RuBERT (29M параметров)
-  max_length: 128
+  name: "DeepPavlov/rubert-base-cased"  # полный RuBERT-base (110M параметров)
+  max_length: 256
   num_labels: 6
 
 classes:
@@ -14,9 +14,9 @@ classes:
   6: "unknown"       # Не распознано
 
 training:
-  batch_size: 32              # rubert-tiny2 влезает в 4 ГБ VRAM с запасом
-  eval_batch_size: 64
-  learning_rate: 5.0e-5       # для tiny2 можно чуть выше, чем для base
+  batch_size: 16              # rubert-base (110M) требует меньший batch
+  eval_batch_size: 32
+  learning_rate: 2.0e-5       # стандарт для BERT-base
   weight_decay: 0.01
   num_epochs: 10
   warmup_ratio: 0.1

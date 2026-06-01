@@ -1,10 +1,10 @@
 """
-Fine-tuning RuBERT-tiny2 для классификации триггеров стресса (блок C PsychMonitor).
+Fine-tuning RuBERT-base для классификации триггеров стресса (блок C PsychMonitor).
 
 Реализует §2.2.3–2.2.4 математической модели:
   - Входные токены → BERT → [CLS] → Linear(768→6) → softmax
   - Функция потерь: categorical cross-entropy (ф. 2.14), опционально взвешенная
-  - AdamW, lr=5e-5 (tiny), warmup, ранняя остановка по Macro-F1 на val
+  - AdamW, lr=2e-5 (base), warmup, ранняя остановка по Macro-F1 на val
 """
 from __future__ import annotations
 import json
